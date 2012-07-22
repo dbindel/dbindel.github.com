@@ -1,0 +1,18 @@
+---
+layout: default
+description: Ranting, mumbling, and generally geeking out
+---
+
+{% for post in site.posts limit: 10 %}
+<article>
+  <header>
+    <h2>
+        <a href="{{ site.baseurl }}/{{ post.url }}" rel="bookmark" title="Permanent link to ">{{ post.title }}</a>
+    </h2>
+    <h5><time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time></h5>
+  </header>
+  {{ post.content }}
+</article>
+{% endfor %}
+
+
