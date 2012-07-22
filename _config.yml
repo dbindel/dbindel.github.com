@@ -9,7 +9,7 @@ markdown: kramdown
 
 # configuration required for some pages
 
-domain: www.cs.cornell.edu/~bindel/blog
+domain: dbindel.github.com
 title: Eigenmumbles
 author: David Bindel
 email: bindel@cs.cornell.edu
