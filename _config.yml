@@ -1,6 +1,6 @@
 # standard jekyll configuration
 
-baseurl:   /~bindel/blog
+baseurl:   http://dbindel.github.com
 
 permalink: date
 pygments: true
