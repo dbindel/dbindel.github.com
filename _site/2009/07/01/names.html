@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">  
+    <title>What's in a Name? Numerical Analysis, Scientific Computing, and CSE. - Eigenmumbles</title>
+    
+    <meta name="author" content="David Bindel">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" media="screen" href="http://dbindel.github.com/stylesheets/styles.css" type="text/css" />
+    <link href="http://dbindel.github.com/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    
+    
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script> 
+
+  </head>
+  <body>
+
+    <div class="topbar">
+      <div class="fill">
+        <nav class="container">
+          <a class="brand" href="#">Eigenmumbles</a>
+          <ul class="nav">
+            <li><a href="http://dbindel.github.com/">Home</a></li>
+            <li><a href="http://dbindel.github.com/about.html">About</a></li>
+            <li><a href="http://dbindel.github.com/archive.html">Archive</a></li>
+          </ul>
+          <form method="get" action="http://www.google.com/search" class="pull-right">
+            <input class="input-small" type="text" name="q" size="31" maxlength="255" value="">
+            <input name="sitesearch" type="hidden" value="dbindel.github.com">
+            <button class="btn" type="submit">Search</button>
+          </form>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="content">
+        <header class="page-header">
+          <h1>Eigenmumbles</h1>
+        </header>
+        <div class="row">
+          <div id="content" class="span12">
+            <article>
+  <header>
+    <h2>
+      <a href="http://dbindel.github.com//2009/07/01/names.html" rel="bookmark" title="Permanent link to ">What's in a Name? Numerical Analysis, Scientific Computing, and CSE.</a>
+    </h2>
+    <h5><time>July  1, 2009</time></h5>
+  </header>
+
+  <blockquote>
+<p>
+<q>Then you should say what you mean,</q> the March Hare went on.
+</p>
+<p>
+<q>I do,</q> Alice hastily replied; <q>at least--at least I mean what I
+say--that's the same thing, you know.</q>
+</p>
+<p>
+<q>Not the same thing a bit!</q> said the Hatter. <q>You might just as well
+say that 'I see what I eat' is the same thing as 'I eat what I
+see!'</q>
+</p>
+<small>
+Lewis Carroll, 
+<a href="http://www.gutenberg.org/ebooks/928">Alice's Adventures in Wonderland</a>
+</small>
+</blockquote>
+
+<p>During a <a href="http://www.siam.org/news/news.php?id=1214">panel session on &ldquo;the future of numerical analysis&rdquo; at ICIAM
+2007</a>, there was a lively debate about what we should call our
+field.  Is numerical analysis the right name, or should we call
+our work scientific computing, or computational science and
+engineering?  I don&rsquo;t think there is necessarily a &ldquo;right&rdquo; name for
+this area, but I do think that the different names emphasize different
+aspects of the field.  This note is my attempt to clarify what <em>I</em>
+mean when I refer to numerical analysis, scientific computing, or
+computational science and engineering.</p>
+
+<h3 id="numerical-analysis">Numerical Analysis</h3>
+
+<p>In mathematics, the word &ldquo;analysis&rdquo; usually refers to the
+study of continuous things and the limiting processes that define
+them.  Numerical analysis combines the ideas of analysis with numerical
+computation.  As Trefethen puts it in his <a href="http://www.comlab.ox.ac.uk/nick.trefethen/publication/PDF/1992_55.pdf">essay on the definition of
+numerical analysis</a>, &ldquo;numerical analysis is the study of algorithms
+for the problems of continuous mathematics.&rdquo;
+Like other areas of mathematical analysis, numerical is <em>not</em> purely
+analytical in the conventional sense.  Numerical analysis is also
+about <em>synthesis</em> of new methods.  We are, among other things,
+engineers of mathematics, and we balance tradeoffs between different
+approximations in order to design methods that are both fast enough
+and accurate enough.</p>
+
+<p>Of course, it is a little silly to parse field names too closely.  The
+meaning of &ldquo;numerical analysis&rdquo; lies in how we use the phrase more
+than in the meanings of the component words.  Still, it seems to me
+that we say &ldquo;numerical analysis&rdquo; most often when we refer to the
+mathematical aspects of numerical method design and analysis.</p>
+
+<h3 id="scientific-computing">Scientific Computing</h3>
+
+<p>I have a book on my shelf entitled <a href="http://www.siam.org/students/resources/report.php">Theoretical Numerical
+Analysis</a>.  You can probably guess that it is about the theory
+underlying various numerical methods, with a particular emphasis on
+the approximation of differential and integral operators.  I do not
+have a book called Theoretical Scientific Computing, and I have a hard
+time imagining what such a book would even cover.  So if scientific
+computing doesn&rsquo;t mean the same thing as numerical analysis, what does
+it mean?</p>
+
+<p>If numerical analysis is about the mathematical aspects of numerical
+method design and analysis, scientific computing is about the aspects
+that involve the computer.  When I worry about cache architecture, or
+when I parallelize numerical methods, or when I build little tools to
+automatically generate parts of my scientific codes, I work on
+scientific computing.  The relationship between scientific computing
+and numerical analysis is, I think, similar to the relationship
+between theoretical computer science and systems design &ndash; they&rsquo;re two
+distinct areas, though the line between them is fuzzy and neither
+would thrive alone as well as they thrive together.</p>
+
+<h3 id="computational-science-and-engineering">Computational Science and Engineering</h3>
+
+<p>Computational science and engineering (CSE) research combines
+applications, mathematics, and software.  Numerical analysis and
+computer science are critical to CSE work, but the research is driven
+by applications to scientific and engineering.  According to the <a href="http://www.siam.org/students/resources/report.php">SIAM
+Working Group on CSE Education</a>, &ldquo;Although it includes elements
+from computer science, applied mathematics, engineering and science,
+CSE focuses on the integration of knowledge and methodologies from all
+of these disciplines, and as such is a subject which is distinct from
+any of them.&rdquo;</p>
+
+<p>By default, I call my own work computational science and engineering.
+While my expertise is in mathematics and computing, I tend to be
+driven by applications.  That is, given that there are too many things
+that I <em>could</em> learn next, I choose what I <em>will</em> learn next based on
+how it will help my collaborators and I better understand some
+scientific or engineering application.</p>
+
+ 
+   
+  <nav id="related">
+    <h3>Related Posts</h3>
+    <ul class="posts">
+      
+        <li><span>06 May 2012</span> - <a href="http://dbindel.github.com//2012/05/06/error.html">Error analysis</a></li>
+      
+        <li><span>23 Apr 2012</span> - <a href="http://dbindel.github.com//2012/04/23/snow.html">Snow</a></li>
+      
+        <li><span>10 Apr 2012</span> - <a href="http://dbindel.github.com//2012/04/10/little.html">Little things</a></li>
+      
+        <li><span>26 Mar 2012</span> - <a href="http://dbindel.github.com//2012/03/26/beat-programming.html">Programming and bad poetry</a></li>
+      
+        <li><span>19 Mar 2012</span> - <a href="http://dbindel.github.com//2012/03/19/plans.html">The Best-Laid Plans</a></li>
+      
+    </ul>
+  </nav>
+
+  
+  <div id="comments">
+    <h2>Comments</h2>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_identifier = "/2009/07/01/names.html";
+      (function() {
+       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+       dsq.src = 'http://eigenmumbles.disqus.com/embed.js';
+       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=eigenmumbles">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</article>
+
+
+          </div>
+          <nav class="span4">
+            <h3>Recent Posts</h3>
+            <div id="posts">
+              
+                <p><a href="http://dbindel.github.com//2012/07/24/ldoc.html">ldoc</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/github.html">Github</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/disqus.html">disqus</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/09/birds.html">The birds of Detroit</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/19/hiring.html">Hiring</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/07/coffee.html">Coffee</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/24/.html">Summer</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/13/tree.html">Tree</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/06/error.html">Error analysis</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/04/28/fiver.html">Five minute masterpiece</a></p>
+              
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <footer>
+        <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
+      </footer>
+
+    </div> 
+
+
+  
+  </body>
+</html>

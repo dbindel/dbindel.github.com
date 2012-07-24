@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">  
+    <title>Numerical debugging - Eigenmumbles</title>
+    
+    <meta name="author" content="David Bindel">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" media="screen" href="http://dbindel.github.com/stylesheets/styles.css" type="text/css" />
+    <link href="http://dbindel.github.com/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    
+    
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script> 
+
+  </head>
+  <body>
+
+    <div class="topbar">
+      <div class="fill">
+        <nav class="container">
+          <a class="brand" href="#">Eigenmumbles</a>
+          <ul class="nav">
+            <li><a href="http://dbindel.github.com/">Home</a></li>
+            <li><a href="http://dbindel.github.com/about.html">About</a></li>
+            <li><a href="http://dbindel.github.com/archive.html">Archive</a></li>
+          </ul>
+          <form method="get" action="http://www.google.com/search" class="pull-right">
+            <input class="input-small" type="text" name="q" size="31" maxlength="255" value="">
+            <input name="sitesearch" type="hidden" value="dbindel.github.com">
+            <button class="btn" type="submit">Search</button>
+          </form>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="content">
+        <header class="page-header">
+          <h1>Eigenmumbles</h1>
+        </header>
+        <div class="row">
+          <div id="content" class="span12">
+            <article>
+  <header>
+    <h2>
+      <a href="http://dbindel.github.com//2011/03/18/debug.html" rel="bookmark" title="Permanent link to ">Numerical debugging</a>
+    </h2>
+    <h5><time>March 18, 2011</time></h5>
+  </header>
+
+  <p>I spent an enormous fraction of this week helping students debug numerical
+code.  Since I keep repeating the same things in these conversations, it
+probably makes sense to write a few of them down.</p>
+
+<h4 id="start-small">Start small</h4>
+
+<p>In general, it&rsquo;s easier to debug a five line routine that does one basic task than to debug a thirty line routine that does six things.  You&rsquo;d really rather not be in the position of having to look at several hundred or thousand lines of code in order to diagnose a problem that some basic sanity checks would have caught when you were looking at a much smaller code segment.</p>
+
+<h4 id="show-pictures">Show pictures</h4>
+
+<p>One of the beautiful things about numerical code is that the results can often
+be interpreted in terms of pictures &ndash; and it&rsquo;s often easier to see wrong
+behavior in a picture than in a table of numbers.  You can get terrific insight
+from looking at convergence plots, visualizations of solutions, plots of
+functions that you&rsquo;re supposedly minimizing, etc.</p>
+
+<h4 id="use-consistent-notation">Use consistent notation</h4>
+
+<p>If you let n be a very small number, epsilon be a loop index, and i be a
+logical flag, you shouldn&rsquo;t be surprised when you overlook a type error that
+should have been obvious.  Even in very short code segments, notation matters.</p>
+
+<h4 id="assert-your-invariants">Assert your invariants</h4>
+
+<p>It&rsquo;s often easy to check that an output satisfies some basic properties (such
+as satisfying an equation or a range condition).  If something is going wrong
+in a sequence of steps and you&rsquo;re not sure where, it makes sense to explicitly
+test at each step that the output of one step (and input of the next) satisfies
+the properties you think it ought to have.</p>
+
+<h4 id="write-unit-tests">Write unit tests</h4>
+
+<p>It&rsquo;s a useful skill to decide in advance what properties each function is
+supposed to have, and to write a little test script that makes sure your
+functions do indeed have the right properties.  And if you&rsquo;ve gone to the
+trouble of writing a test, it might be worth keeping it around for later.</p>
+
+<h4 id="think-about-hard-cases">Think about hard cases</h4>
+
+<p>If there is a singular case that could cause your code to face plant, you
+should make sure to check that your code handles that case (and nearby
+problems) with some modicum of grace.</p>
+
+<h4 id="beware-non-fatal-errors">Beware non-fatal errors</h4>
+
+<p>Watch out for code that &ldquo;works&rdquo; on the first try.  Are you getting the speed
+and accuracy you expected?  For example, Newton&rsquo;s method converges (locally)
+quadratically to the solution to a nonlinear equation, but many almost-Newton
+methods converge linearly.  If your code for Newton iteration converges, that
+doesn&rsquo;t actually mean that you&rsquo;ve computed all your derivatives correctly (for
+example) &ndash; it just means that you&rsquo;re close enough to get something convergent.
+The difference will only show up if you look at details of the rate of
+convergence.</p>
+
+<h4 id="beware-error-propogation">Beware error propogation</h4>
+
+<p>Watch out for ill-posed intermediate problems.  Just because two codes are
+accurate on their own does not mean the composition of those codes will be
+accurate in arbitrary settings.</p>
+
+<h4 id="not-all-errors-are-numerical">Not all errors are numerical</h4>
+
+<p>If Matlab tells you that you&rsquo;re trying to solve a nearly-singular linear
+system, there may be some numerical issue in your problem formulation that you
+should worry about.  Or you might have made an indexing mistake when you set up
+the matrix in the linear system.  Think a little bit before ruling out the
+possibility that your bug might have nothing to do with numerical subtleties
+and everything to do with good old-fashioned off-by-one mistakes.</p>
+
+ 
+   
+  <nav id="related">
+    <h3>Related Posts</h3>
+    <ul class="posts">
+      
+        <li><span>06 May 2012</span> - <a href="http://dbindel.github.com//2012/05/06/error.html">Error analysis</a></li>
+      
+        <li><span>03 Feb 2012</span> - <a href="http://dbindel.github.com//2012/02/03/flailing.html">Flailing</a></li>
+      
+        <li><span>24 Jan 2012</span> - <a href="http://dbindel.github.com//2012/01/24/vnote.html">Screencasts, take 2</a></li>
+      
+        <li><span>20 Jan 2012</span> - <a href="http://dbindel.github.com//2012/01/20/experiment.html">experiment</a></li>
+      
+        <li><span>17 Nov 2011</span> - <a href="http://dbindel.github.com//2011/11/17/grading.html">Grading</a></li>
+      
+    </ul>
+  </nav>
+
+  
+  <div id="comments">
+    <h2>Comments</h2>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_identifier = "/2011/03/18/debug.html";
+      (function() {
+       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+       dsq.src = 'http://eigenmumbles.disqus.com/embed.js';
+       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=eigenmumbles">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</article>
+
+
+          </div>
+          <nav class="span4">
+            <h3>Recent Posts</h3>
+            <div id="posts">
+              
+                <p><a href="http://dbindel.github.com//2012/07/24/ldoc.html">ldoc</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/github.html">Github</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/disqus.html">disqus</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/09/birds.html">The birds of Detroit</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/19/hiring.html">Hiring</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/07/coffee.html">Coffee</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/24/.html">Summer</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/13/tree.html">Tree</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/06/error.html">Error analysis</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/04/28/fiver.html">Five minute masterpiece</a></p>
+              
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <footer>
+        <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
+      </footer>
+
+    </div> 
+
+
+  
+  </body>
+</html>

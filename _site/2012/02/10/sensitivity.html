@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">  
+    <title>Automated sensitivity analysis - Eigenmumbles</title>
+    
+    <meta name="author" content="David Bindel">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" media="screen" href="http://dbindel.github.com/stylesheets/styles.css" type="text/css" />
+    <link href="http://dbindel.github.com/atom.xml" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
+    
+    
+
+    <!-- mathjax config similar to math.stackexchange -->
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+          inlineMath: [['$', '$']],
+          displayMath: [['$$', '$$']],
+          processEscapes: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        },
+      messageStyle: "none",
+      "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
+    });
+    </script>
+    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script> 
+
+  </head>
+  <body>
+
+    <div class="topbar">
+      <div class="fill">
+        <nav class="container">
+          <a class="brand" href="#">Eigenmumbles</a>
+          <ul class="nav">
+            <li><a href="http://dbindel.github.com/">Home</a></li>
+            <li><a href="http://dbindel.github.com/about.html">About</a></li>
+            <li><a href="http://dbindel.github.com/archive.html">Archive</a></li>
+          </ul>
+          <form method="get" action="http://www.google.com/search" class="pull-right">
+            <input class="input-small" type="text" name="q" size="31" maxlength="255" value="">
+            <input name="sitesearch" type="hidden" value="dbindel.github.com">
+            <button class="btn" type="submit">Search</button>
+          </form>
+        </nav>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <div class="content">
+        <header class="page-header">
+          <h1>Eigenmumbles</h1>
+        </header>
+        <div class="row">
+          <div id="content" class="span12">
+            <article>
+  <header>
+    <h2>
+      <a href="http://dbindel.github.com//2012/02/10/sensitivity.html" rel="bookmark" title="Permanent link to ">Automated sensitivity analysis</a>
+    </h2>
+    <h5><time>February 10, 2012</time></h5>
+  </header>
+
+  <p>If I find an MEng student or undergrad with the right inclination &ndash;
+or in the unlikely event that I get a windfall of time of my own that
+isn&rsquo;t eaten by other projects &ndash; I&rsquo;d like to build a twist on the
+simple calculator language.  I want a calculator that estimates
+rounding errors throughout a calculation based on the standard
+$(1+\delta)$ model, and uses sensitivity analysis to show how those
+rounding errors propogate through the calculation.  This wouldn&rsquo;t be
+all that much more complicated than the usual symbolic differentiation
+stuff.  The only thing that&rsquo;s different is that one would effectively
+be computing partial derivatives with respect to variables
+representing the rounding error committed at each step of the
+computation.</p>
+
+<p>The cool thing about this is not that it would provide approximate a
+posteriori error bounds.  I already know how to do that, and this tool
+wouldn&rsquo;t really help with the hard part, which is doing an a priori
+analysis to reveal where problems are likely to occur, and then being
+clever in a way that guarantees adequate accuracy near those problem
+cases.  No, the cool thing is that this could help my students
+understand what I mean when I talk about a single critical rounding
+error being amplified &ndash; without me walking through the error analysis
+at the board with them.</p>
+ 
+   
+  <nav id="related">
+    <h3>Related Posts</h3>
+    <ul class="posts">
+      
+        <li><span>10 Apr 2012</span> - <a href="http://dbindel.github.com//2012/04/10/little.html">Little things</a></li>
+      
+        <li><span>24 Aug 2011</span> - <a href="http://dbindel.github.com//2011/08/24/why-eigs.html">Why eigenvalues?</a></li>
+      
+        <li><span>09 Dec 2010</span> - <a href="http://dbindel.github.com//2010/12/09/rotating.html">Fictitious forces and skew matrices</a></li>
+      
+        <li><span>26 Dec 2011</span> - <a href="http://dbindel.github.com//2011/12/26/season.html">Tis the Season</a></li>
+      
+        <li><span>23 Nov 2011</span> - <a href="http://dbindel.github.com//2011/11/23/thankful.html">Technical Thanksgiving</a></li>
+      
+    </ul>
+  </nav>
+
+  
+  <div id="comments">
+    <h2>Comments</h2>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      var disqus_identifier = "/2012/02/10/sensitivity.html";
+      (function() {
+       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+       dsq.src = 'http://eigenmumbles.disqus.com/embed.js';
+       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=eigenmumbles">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</article>
+
+
+          </div>
+          <nav class="span4">
+            <h3>Recent Posts</h3>
+            <div id="posts">
+              
+                <p><a href="http://dbindel.github.com//2012/07/24/ldoc.html">ldoc</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/github.html">Github</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/22/disqus.html">disqus</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/07/09/birds.html">The birds of Detroit</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/19/hiring.html">Hiring</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/06/07/coffee.html">Coffee</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/24/.html">Summer</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/13/tree.html">Tree</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/05/06/error.html">Error analysis</a></p>
+              
+                <p><a href="http://dbindel.github.com//2012/04/28/fiver.html">Five minute masterpiece</a></p>
+              
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <footer>
+        <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
+      </footer>
+
+    </div> 
+
+
+  
+  </body>
+</html>

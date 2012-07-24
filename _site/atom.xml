@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Eigenmumbles</title>
+ <link href="http://dbindel.github.com/atom.xml" rel="self"/>
+ <link href="http://dbindel.github.com/"/>
+ <updated>2012-07-24T01:08:44-04:00</updated>
+ <id>http://dbindel.github.com/</id>
+ <author>
+   <name>David Bindel</name>
+   <email>bindel@cs.cornell.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>ldoc</title>
+   <link href="http://dbindel.github.com/2012/07/24/ldoc.html"/>
+   <updated>2012-07-24T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/07/24/ldoc</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Github</title>
+   <link href="http://dbindel.github.com/2012/07/22/github.html"/>
+   <updated>2012-07-22T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/07/22/github</id>
+   <content type="html">&lt;p&gt;I have moved these pages from the Cornell CS web server to
+&lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;.  There are a few simple reasons for this:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I have other stuff that I really should be doing instead, but I&amp;rsquo;m
+cross-eyed from working on technical things all weekend.  Moving
+files from point A to point B lets me coast for a few minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I&amp;rsquo;m already using Jekyll, so there&amp;rsquo;s no real friction to the move.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There is real friction to using the CS web server, since I have to
+be logged into the Cornell VPN in order to get to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I&amp;rsquo;ve done a bit of coding this summer that I keep intending to move
+up to Github.  This seems like a good first step.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>disqus</title>
+   <link href="http://dbindel.github.com/2012/07/22/disqus.html"/>
+   <updated>2012-07-22T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/07/22/disqus</id>
+   <content type="html">&lt;p&gt;This is a test post to see if &lt;a href=&quot;www.disqus.com&quot;&gt;Disqus&lt;/a&gt; works as I
+expect.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The birds of Detroit</title>
+   <link href="http://dbindel.github.com/2012/07/09/birds.html"/>
+   <updated>2012-07-09T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/07/09/birds</id>
+   <content type="html">&lt;p&gt;The Detroit airport is loud a lot of the time.  Most airports are.
+Every few moments, there is a TSA announcement, or a gate
+announcement, or a request that someone go to the courtesy telephone.
+The tram that runs from one end of the terminal to the other rumbles
+overhead.  And, of course, there is a constant bustle of people.&lt;/p&gt;
+
+&lt;p&gt;But in the moments between all that, you can hear the birds in the
+rafters.  I&amp;rsquo;m not sure how they got inside; and if they get in with
+any regularity, I imagine the maintenance crews view them as pests.
+But here and now, I&amp;rsquo;m glad to hear them.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hiring</title>
+   <link href="http://dbindel.github.com/2012/06/19/hiring.html"/>
+   <updated>2012-06-19T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/06/19/hiring</id>
+   <content type="html">&lt;p&gt;I get enough requests for student referrals from potential employers
+that it seems like I should put together a standard polite response to
+them.  This is that polite response.&lt;/p&gt;
+
+&lt;p&gt;The National Association of Colleges and Employers (NACE), of which
+Cornell is a member, publishes a
+&lt;a href=&quot;http://www.naceweb.org/legal/faculty_guide/&quot;&gt;Faculty Guide to Ethical and Legal Standards in Student Hiring&lt;/a&gt;.
+According to this guide, it is recommended that we redirect requests
+for student referrals to
+&lt;a href=&quot;http://www.career.cornell.edu/&quot;&gt;Cornell Career Services&lt;/a&gt; so that it can
+be posted openly for qualified candidates.
+Given that Cornell makes it
+&lt;a href=&quot;http://www.career.cornell.edu/employers/hiring_students/posting/index.cfm&quot;&gt;free to employers&lt;/a&gt;
+to post full-time jobs, internships, and summer positions for current
+students and recent grads (up to five years out), this seems like the
+best strategy both for me and for any employers who might want to hire
+my students.  Also, Career Services has people who help match people
+with opportunities, schedule interviews, etc.
+In any event, the Family Educational Rights and Privacy Act (FERPA)
+does not generally allow my to disclose student information outside
+Cornell without prior consent of the student, so the best I can do is
+to advertise, and Career Services is generally better at advertising
+such things than I am.&lt;/p&gt;
+
+&lt;p&gt;Also, if you want to hire our top students, get a head start.  Many of
+our top undergraduates have jobs lined up by the end of the fall
+semester.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coffee</title>
+   <link href="http://dbindel.github.com/2012/06/07/coffee.html"/>
+   <updated>2012-06-07T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/06/07/coffee</id>
+   <content type="html">&lt;p&gt;The CS department has an espresso machine, which I basically never
+use.  For a while after the kitchen was spruced up, we had a simple
+one-button model.  But that kept breaking down, until one day it
+disappeared and was replaced by an older version.  I could learn to
+use it, I suppose, but most days, I just make a pot of coffee with the
+coffee maker in my office.  And whe I want something a little fancier,
+I will go out.&lt;/p&gt;
+
+&lt;p&gt;Today was a day to go out.  The carpet in my office was just cleaned
+this morning, so I&amp;rsquo;m trying to avoid working there; and in any event,
+sometimes I enjoy a change of scenery.  So for now, I&amp;rsquo;m sitting in
+Starbucks, having just finished one task and getting ready to move on
+to the next one.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Summer</title>
+   <link href="http://dbindel.github.com/2012/05/24/.html"/>
+   <updated>2012-05-24T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/05/24/</id>
+   <content type="html">&lt;p&gt;I turned in my grades last Friday, then spent the next several days
+away from Ithaca on travel.  I was going for family reasons, but many
+others in the department seem to have chosen this week for travel for
+professional reasons.  Whatever the reasons, a trip away is a good
+bookend to the semester.&lt;/p&gt;
+
+&lt;p&gt;Spring is over.  Summer is here.  It is a time for quiet and
+concentration, a time when I can work in a straight line for eight
+hours or more without the distraction of meetings or knocks at the
+door.  I love it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tree</title>
+   <link href="http://dbindel.github.com/2012/05/13/tree.html"/>
+   <updated>2012-05-13T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/05/13/tree</id>
+   <content type="html">&lt;p&gt;A couple weeks ago, a tree that grew at the edge of our property blew
+down during a windstorm.  It fell on a steep slope covered with vines
+&amp;ndash; vinca, I think &amp;ndash; and it was drattedly difficult to get to.  I let
+it sit for a couple weekends, not wanting to tackle a task that
+involved sharp tools and a steep slope when that slope was also wet.
+But this weekend, the weather is fine.  So yesterday morning, I got a
+saw and a rope from Lowes, and I set to cutting and hauling.  The work
+went surprisingly quickly, and after about two hours, we had a brush
+pile and some logs to finish cutting into firewood.  And that was
+that.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks ago, a bit after the tree fell, I agreed with one of my
+students that I was going to help him write the code for describing
+boundaries in our finite element code.  After staring at it for a
+while, I decided the right way to handle the boundary curve was to
+generate a Chebyshev polynomial approximation to a parametric
+description provided by the user as part of a larger mapped block mesh
+generator.  So on Thursday this week, I sat down and wrote and tested the
+code to fit that parametric approximation, evaluate it quickly, and
+get the derivatives that I need to compute surface normals.  It took
+about the same amount of time to get the basic functionality working
+as it took me to chop up the tree.  And, like cutting up the tree, it
+felt pretty good to get it out of the way.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Error analysis</title>
+   <link href="http://dbindel.github.com/2012/05/06/error.html"/>
+   <updated>2012-05-06T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/05/06/error</id>
+   <content type="html">&lt;p&gt;This morning, I uploaded the grades for the third project that I
+assigned for my scientific computing class this semester.  The project
+involved understanding the behavior of a thermal ignition model, and
+involved several steps.  In each step, there was an approximation.  At
+the end of the assignment, I asked the students how many digits of
+their answers they believed, and why.  I did say that it was okay to
+not be rigorous, and that experimental evidence and convergence plots
+were fine.&lt;/p&gt;
+
+&lt;p&gt;They didn&amp;rsquo;t do so well at this.  This difficulty made the project
+tremendously difficult to grade.  It also set me to thinking about the
+nature of teaching error analysis in an introductory scientific
+computing class.&lt;/p&gt;
+
+&lt;p&gt;Few of my students should ever have to re-implement the basic
+algorithms they learn in this class.  There are standard libraries
+that include good implementations of many of these methods, and the
+authors of those standard libraries spend time to make sure the
+implementations they provide are as robust and flexible as possible.
+The same is true of an introductory algorithms course, though: for the
+most part, the world does not need another implementation of
+quicksort, and it certainly does not need another implementation of
+bubblesort.  What it needs is people who &lt;em&gt;understand&lt;/em&gt; sorting
+algorithms well enough so that they can make intelligent choices
+between competing methods.  In the case of sorting, that means
+understanding the effects of different key distributions, how
+nearly-sorted data differs from completely-unsorted data, and the care
+and maintenance of asymptotic complexity results.  In the case of
+numerical methods, that means understanding how different methods rely
+on different problem characteristics, and the differences in
+efficiency and error that ensue.  The important question is not &amp;ldquo;how
+can I compute X,&amp;rdquo; but &amp;ldquo;how can I compute X with enough speed and
+accuracy to attain my higher-level goal Y.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, I just want to make sure that any bridges my
+students might build don&amp;rsquo;t fall down because they believed their
+simulations too much.  My conclusion from this project is that I hope
+many of my students are not allowed to build bridges without
+supervision in the immediate future.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Five minute masterpiece</title>
+   <link href="http://dbindel.github.com/2012/04/28/fiver.html"/>
+   <updated>2012-04-28T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/04/28/fiver</id>
+   <content type="html">&lt;p&gt;It takes me more than five minutes to write the typical email,
+anything beyond a one-line response that says that I can meet or that
+my office hours have been moved.  Writing anything more technical, I
+move at a glacial pace.  This is not a good thing, and I know it.&lt;/p&gt;
+
+&lt;p&gt;One of the ways that I try to keep myself from overthinking things is
+by writing with a pen.  I type faster than I can think through my
+sentences at times, so I&amp;rsquo;m always stuck hitting backspace from time
+to time when I use the computer.  But I write more slowly, which
+paradoxically means that I often end up producing more writing per
+unit of time with a pen than with a keyboard, only because I throw
+less of it away.  And this feels a little silly.  It&amp;rsquo;s the product of
+habits that I should be able to revise or work around.&lt;/p&gt;
+
+&lt;p&gt;So let&amp;rsquo;s work on revising or working around those habits.  This is my
+experiment: the five minute masterpiece.  I sit and type for five
+minutes, and whatever is done at the end of that time, I post.  It
+could be me writing about something technical or something absurd; the
+only rule is that it must be done quickly, with a minimum of fretting
+over revision.  Also, ideally, it should involve only very brief
+seconds where I stare off into space and try to marshal my thoughts
+into words, rather than periods of a minute or two.&lt;/p&gt;
+
+&lt;p&gt;At the moment, I have a sleeping baby sitting in front of me, and she
+is starting to stir.  That&amp;rsquo;ll keep me honest for today.  What will I
+do to manage this more generally?  I don&amp;rsquo;t know, but I imagine I&amp;rsquo;ll
+figure something out!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Snow</title>
+   <link href="http://dbindel.github.com/2012/04/23/snow.html"/>
+   <updated>2012-04-23T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/04/23/snow</id>
+   <content type="html">&lt;p&gt;It&amp;rsquo;s almost May, and there are two weeks of instruction left in the
+semester, including this one.  Last week, I could feel spring in the
+air, with clear skies and temperatures in the upper 70s, sometimes
+even the lower 80s.  And this morning, it is just below freezing with
+a couple inches of snow on the ground.  Our poor flowers!  They just
+went into the ground a couple weeks ago.&lt;/p&gt;
+
+&lt;p&gt;As an undergraduate at the University of Maryland, this was the type
+of morning when I&amp;rsquo;d wake up and look forward to seeing a &amp;ldquo;sermon&amp;rdquo; in
+my inbox from Sandy Mack, who at the time was the head of the
+university honors program.  These little broadcast notes would point
+out that, despite the weather and end-of-semester stresses, it&amp;rsquo;s still
+spring, and life is basically okay.  And maybe they&amp;rsquo;d suggest popping
+popcorn with the lid off as a means of relieving stress.&lt;/p&gt;
+
+&lt;p&gt;Off to lecture now!  Maybe I&amp;rsquo;ll tell them to pop popcorn with the lid
+off while they study?  Probably not, but it&amp;rsquo;s a thought.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Little things</title>
+   <link href="http://dbindel.github.com/2012/04/10/little.html"/>
+   <updated>2012-04-10T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/04/10/little</id>
+   <content type="html">&lt;p&gt;Though they can make a big difference, the things that distinguish
+carefully written numerical methods are often easy to miss, unless
+you&amp;rsquo;re looking for them.  A few come to mind:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Careful codes use structure.  Matrices that are sparse or
+symmetric are treated as such, structures that are supposed to be
+conserved by the physics are conserved (at least approximately) bt
+the methods, and some attention is paid to things like
+monotonicity.&lt;/li&gt;
+  &lt;li&gt;Careful codes compute corrections.  Computing a correction to an
+approximate answer is often easier than computing the &amp;ldquo;right&amp;rdquo;
+answer directly.  And trying to get an answer in closed form is
+sometimes not a very useful computational tactic &amp;mdash; it&amp;rsquo;s better
+to think in terms of iterations that apply a series of corrections
+(though direct methods are fine where appropriate!).&lt;/li&gt;
+  &lt;li&gt;Careful codes have meaningful safeguards.  This is sometimes
+mis-interpreted as &amp;ldquo;lots of safeguards,&amp;rdquo; leading to codes that are
+impossible to read because they spend so much time checking on
+conditions that can clearly never happen and that have no
+particular relevance.&lt;/li&gt;
+  &lt;li&gt;Careful codes are backed by both testing and analysis.  Ideally,
+the analysis should guide the design of the test cases.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Programming and bad poetry</title>
+   <link href="http://dbindel.github.com/2012/03/26/beat-programming.html"/>
+   <updated>2012-03-26T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/03/26/beat-programming</id>
+   <content type="html">&lt;p&gt;There are elegant programs in the world, systems that impress you with
+the simple, powerful way in which they solve fundamentally difficult
+problems.  Some of these are almost like works of literature &amp;ndash; poems,
+perhaps, some short and some epic.  Then there are codes that are the
+equivalent of a technical report: functional, thorough, competently
+written, and not necessarily that interesting to read.  You&amp;rsquo;re glad
+someone else has done the work, but you&amp;rsquo;d prefer just to cite it (or
+call it as a subroutine) and not wade through the details.  Then
+there are codes that reek of the sort of desperation that comes from
+writing a term paper in an all-nighter just before it is due; this
+image comes frequently to mind when I read code from some students.&lt;/p&gt;
+
+&lt;p&gt;And then there are the codes that resemble nothing so much as the bad
+poetry that sometimes gets read in cafes around college towns.  These
+are the codes where the author is clearly ecstatic about all the
+clever things that he can do with his language, even though you really
+wish that he wouldn&amp;rsquo;t.  Sometimes, they rise to a sort of awful,
+accidental art form at which one can only marvel.  When I see
+these, I can never decide whether they&amp;rsquo;ve made my day, or ruined it.
+Either way, I try to avoid repeating the experience.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Best-Laid Plans</title>
+   <link href="http://dbindel.github.com/2012/03/19/plans.html"/>
+   <updated>2012-03-19T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2012/03/19/plans</id>
+   <content type="html">&lt;p&gt;I had several meetings over the past couple weeks with the
+undergraduate students that I advise.  For the most part, they asked
+me straightforward questions about classes, scheduling, petitions, and
+the wisdom of applying for a master&amp;rsquo;s degree.  But every once in a
+while, someone throws a curveball, usually something involving a
+choice between several grand plans for the future.  And what can I say
+about these?  We can try to make well-informed guesses, but few of us
+can say with any confidence what will happen next week, let alone a
+few months or years down the line.  So I point out that win-win
+decisions are known to be hard, partly because we seem to fear regret
+over lost opportunities more than we fear the eventualities that will
+actually bring us loss.  And there&amp;rsquo;s not a whole lot I know how to do
+about it except to hope for the best, make rational backup plans in
+case the best doesn&amp;rsquo;t work out, and keep moving forward.  So this is
+what I say.  The odd thing is how often this seems to come across
+as something insightful.  I&amp;rsquo;m never quite sure whether that&amp;rsquo;s because
+I&amp;rsquo;ve actually said something that constituted reasonable advice or
+insight, or if it&amp;rsquo;s simply that I said something in a calm tone of
+voice when a calm tone of voice was needed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tea</title>
+   <link href="http://dbindel.github.com/2012/03/10/tea.html"/>
+   <updated>2012-03-10T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/03/10/tea</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;There is no trouble so great or grave that cannot be much diminished
+by a nice cup of tea. &lt;/p&gt;
+
+  &lt;p&gt;&amp;ndash; Bernard-Paul Heroux&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spring</title>
+   <link href="http://dbindel.github.com/2012/03/07/spring.html"/>
+   <updated>2012-03-07T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/03/07/spring</id>
+   <content type="html">&lt;p&gt;The sun is shining, the birds are chirping, and the temperature is
+supposed to go above 60 F today in Ithaca.  I might wish that this
+weather had arrived two days ago for our visit day for prospective CS
+graduate students.  But really: it&amp;rsquo;s a beautiful day.  Spring is on
+the way.  I have no cause for complaint.&lt;/p&gt;
+
+&lt;p&gt;Spring break for Cornell starts in a week and a half.  As an
+undergraduate, I remember that I always looked forward to spring break
+as a chance to catch up.  As a graduate student, I mostly didn&amp;rsquo;t
+notice that spring break existed.  Now, as a faculty member, I again
+look forward to spring break as that most precious of things: a chance
+at uninterrupted time to think.&lt;/p&gt;
+
+&lt;p&gt;Of course, I&amp;rsquo;ll also have to do some grading, and I think many of my
+meetings are still on, so in practice my time will will be a bit
+fragmented.  Nonetheless, the thought of uninterrupted thinking time
+is keeping me going!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Engineering</title>
+   <link href="http://dbindel.github.com/2012/02/26/engineering.html"/>
+   <updated>2012-02-26T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/02/26/engineering</id>
+   <content type="html">&lt;p&gt;My training is in mathematics and computer science, but engineering
+has always been part of my intellectual environment.  My circle of
+close friends consists disproportionately of engineers.  My father is
+an engineer.  One of my brothers is an engineer.  I was co-advised by
+a civil engineer, and did a graduate minor in mechanical engineering.
+And I came to Cornell in part for the strength of the engineering
+program.  I spend a lot of time learning from colleagues in
+engineering about the cool things they think about.  Sometimes, I get
+the chance to help them out; but even if I don&amp;rsquo;t, it&amp;rsquo;s fun to learn.&lt;/p&gt;
+
+&lt;p&gt;I work in computational science and engineering (CSE), and most of my
+work involves using computers to analyze mathematical models from the
+sciences and engineering.  A lot of what I do is essentially
+engineering applied to computational mathematics.  Our models of the
+world are generally incomplete, and even very simplified models often
+admit no close form solution, nor even a very simple analysis.  The
+goal of most scientific computing answer is to devise methods that are
+fast enough and get solutions that are right enough to a problem
+arising from a model that is good enough, where &amp;ldquo;fast enough&amp;rdquo;, &amp;ldquo;right
+enough&amp;rdquo; and &amp;ldquo;good enough&amp;rdquo; are concepts defined by some underlying
+problem.  Ideally, I want my work to result in artifacts &amp;ndash; theories, codes,
+design rules, or approximation methods &amp;ndash; that are useful tools for
+someone else who is doing something cool.&lt;/p&gt;
+
+&lt;p&gt;The basic skills needed to do numerical computing seem like everyday
+fare: a solid understanding of calculus and linear algebra, some
+programming ability, and a bit of common sense about what things are
+actually worth computing.  But none of these skills are actually so
+everyday as what one might initially think (which keeps teaching
+entertaining).  Of these skills, common sense is the most elusive,
+uncommon, and important.  And of these skills, the common-sense
+appraisal, the understanding of what is actually needed to achieve a
+goal and the trade-offs in how to get there, is what I most associate
+with engineering.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Automated sensitivity analysis</title>
+   <link href="http://dbindel.github.com/2012/02/10/sensitivity.html"/>
+   <updated>2012-02-10T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/02/10/sensitivity</id>
+   <content type="html">&lt;p&gt;If I find an MEng student or undergrad with the right inclination &amp;ndash;
+or in the unlikely event that I get a windfall of time of my own that
+isn&amp;rsquo;t eaten by other projects &amp;ndash; I&amp;rsquo;d like to build a twist on the
+simple calculator language.  I want a calculator that estimates
+rounding errors throughout a calculation based on the standard
+$(1+\delta)$ model, and uses sensitivity analysis to show how those
+rounding errors propogate through the calculation.  This wouldn&amp;rsquo;t be
+all that much more complicated than the usual symbolic differentiation
+stuff.  The only thing that&amp;rsquo;s different is that one would effectively
+be computing partial derivatives with respect to variables
+representing the rounding error committed at each step of the
+computation.&lt;/p&gt;
+
+&lt;p&gt;The cool thing about this is not that it would provide approximate a
+posteriori error bounds.  I already know how to do that, and this tool
+wouldn&amp;rsquo;t really help with the hard part, which is doing an a priori
+analysis to reveal where problems are likely to occur, and then being
+clever in a way that guarantees adequate accuracy near those problem
+cases.  No, the cool thing is that this could help my students
+understand what I mean when I talk about a single critical rounding
+error being amplified &amp;ndash; without me walking through the error analysis
+at the board with them.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Flailing</title>
+   <link href="http://dbindel.github.com/2012/02/03/flailing.html"/>
+   <updated>2012-02-03T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/02/03/flailing</id>
+   <content type="html">&lt;p&gt;Here is how you solve a problem in a scientific computing class.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Read the problem statement carefully.  Make sure that you
+ understand what you are supposed to be figuring out.&lt;/li&gt;
+  &lt;li&gt;Figure out how you&amp;rsquo;re going to sanity check your solution.  This
+ could be a check to see that the answer satisfies an equation that
+ it is supposed to satisfy, or a check on the order of magnitude of
+ some quantity, or a check to make sure that the procedure works
+ correctly for an set of parameters for which the answer is known
+ in closed form.  A picture is usually helpful.&lt;/li&gt;
+  &lt;li&gt;Try to find a numerically convenient problem formulation.  At the
+ very least, this usually means changing to a new set of variables.&lt;/li&gt;
+  &lt;li&gt;Taylor expand, change coordinates, and repeat.&lt;/li&gt;
+  &lt;li&gt;Sanity check your analytical computations against numerics; sanity
+ check your numerical computations with analysis.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Here is how you fail to solve a problem in a scientific computing
+class.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Choose the most prominent looking equation in the problem statement
+ and fixate on it.  Ignore the surrounding text.&lt;/li&gt;
+  &lt;li&gt;Look on Wikipedia to see if there is a problem that looks almost
+ the same.  Be careful not to think too much before Googling, or
+ you might accidentally gain some insight.&lt;/li&gt;
+  &lt;li&gt;Take whatever you found on Wikipedia and dump it into Mathematica.
+ Be careful not to simplify, check for typos, or otherwise sanity check
+ this step.&lt;/li&gt;
+  &lt;li&gt;Wildly guess some manipulation that you should apply to whatever
+ formulas you&amp;rsquo;ve scraped from your Wikipedia and Mathematica
+ wanderings.  Ideally, you should avoid any manipulation having to
+ do with Taylor series, integration by parts, or basic linear
+ algebra in order to avoid accidentally landing on a good approach.&lt;/li&gt;
+  &lt;li&gt;Test with one set of inputs and conclude that if the answer is not NaN or
+ inf, then your computation is correct.  By no means should you
+ draw a picture or think critically about your answer; this might
+ lead to realizing that what you&amp;rsquo;ve done makes now sense.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The latter approach is colloquiually called &amp;ldquo;flailing.&amp;rdquo;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Calculus</title>
+   <link href="http://dbindel.github.com/2012/02/01/calculus.html"/>
+   <updated>2012-02-01T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/02/01/calculus</id>
+   <content type="html">&lt;p&gt;When I was in grade school, I remember some of my classmates couldn&amp;rsquo;t
+wait to learn to write cursive.  I didn&amp;rsquo;t sympathize at the time,
+though later in life I decided that there&amp;rsquo;s something very soothing
+about well-executed longhand.  But though I might not have felt the
+same, I certainly understood the drive to learn that next big thing on
+the horizon, the one that looked so cool and yet so far away.&lt;/p&gt;
+
+&lt;p&gt;Calculus was my cursive.  The public library near our home had a
+variety of popular math books, as well as introductory books on basic
+calculus.  I gobbled them up, though it&amp;rsquo;s unclear to me now how much I
+really learned from them.  Eventually, I actually took calculus, and
+that was that.  Then I went to college, and spent a year obsessing
+over an introductory analysis sequence.  Then it was tensors for a
+while &amp;mdash; I knew what they were to a mathematician, but I wanted to
+understand how physicists thought about them, too.  Compilers, too,
+were a minor obsession up until I took a compilers course.  And so it
+went, and so it still goes: a topic just &lt;em&gt;sounds&lt;/em&gt; cool to me, so I
+play around the outskirts of it for a while until I feel ready, then
+dive in.  Usually, I come away from the experience still thinking that
+the topic was interesting, and excited about all the connections that
+I made while learning about it.  Anyhow, I picked up a bag of cool
+tricks over the years, and I love &amp;lsquo;em all, even if some of them seemed
+cooler before I had them in my hand &amp;mdash; a problem familiar to most of
+us, I suppose.&lt;/p&gt;
+
+&lt;p&gt;It has dawned on my recently that many of my students might not have
+gone through that preliminary bumbling-around phase where calculus was
+a seductive mystery.  I got to start asking &amp;ldquo;what is a derivative,
+really?&amp;rdquo; around the end of middle school, and just kept on getting
+more nuanced answers as I learned more and more.  I sometimes say,
+only half in jest, that one of my biggest lessons from grad school is
+that you can differentiate anything with respect to anything.  So what
+would have happened if I&amp;rsquo;d started instead with someone telling me
+what a derivative is, then making me differentiate a bunch of boringly
+similar functions for a few hours before moving on to the next topic?
+I might have ended up like the dog in the Far Side cartoon, hearing
+&amp;ldquo;blah, blah, blah, differentiation, blah, blah.&amp;rdquo;  I think that would
+have driven my nuts, and I was far better off starting with a slightly
+confused sense of wonder than I would have been with a more
+unprejudiced and unenthusiastic approach.&lt;/p&gt;
+
+&lt;p&gt;Now that I think about it, I kind of hope that someone in one of my
+lectures has at some point written &amp;ldquo;blah, blah, Taylor series, blah&amp;rdquo;
+in a set of notes.  It would, at the very least, exhibit an emotional
+connection with the material, even if the emotion in question leaned
+more to irony than to awe.  But if everyone just earnestly copies down
+what I&amp;rsquo;ve said without stopping to feel just a little bit of wonder or
+amusement at the material itself, I kind of think I&amp;rsquo;m not doing a very
+good job of conveying how I think about the material.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Screencasts, take 2</title>
+   <link href="http://dbindel.github.com/2012/01/24/vnote.html"/>
+   <updated>2012-01-24T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/01/24/vnote</id>
+   <content type="html">&lt;p&gt;It seemed like such a good idea at the time.&lt;/p&gt;
+
+&lt;p&gt;Having now assembled a small handful of the videos for class, I&amp;rsquo;m
+getting more and more pessimistic about using them as teaching aids.
+It isn&amp;rsquo;t that they are useless &amp;ndash; they just take too much time to
+make!  Part of the problem is that it&amp;rsquo;s incredibly difficult to figure&lt;/p&gt;
+
+&lt;p&gt;In the past, I&amp;rsquo;ve always written lecture notes for math classes
+(most of what I&amp;rsquo;ve done) and slides for parallel computing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>experiment</title>
+   <link href="http://dbindel.github.com/2012/01/20/experiment.html"/>
+   <updated>2012-01-20T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/01/20/experiment</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;m trying an experiment this semester, and putting part of my lecture
+for &lt;a href=&quot;http://www.cs.cornell.edu/~bindel/cs3220-s12&quot;&gt;CS 3220&lt;/a&gt; online in
+the form of YouTube videos.  The hope is that this will let me spend
+my class hours more interactively.  So far, only the &lt;a href=&quot;http://www.youtube.com/watch?v=vRAJSfQY_7c&amp;amp;feature=youtube_gdata_player&quot;&gt;first one is
+up&lt;/a&gt;.
+That first video doesn&amp;rsquo;t contain any technical content &amp;ndash; it mostly just
+explains why I&amp;rsquo;m doing this &amp;ndash; but it was easy enough to put it together
+that I&amp;rsquo;m convinced that recording and posting the videos will not be all
+that onerous.&lt;/p&gt;
+
+&lt;p&gt;Instruction starts Monday.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pens</title>
+   <link href="http://dbindel.github.com/2012/01/13/pens.html"/>
+   <updated>2012-01-13T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/01/13/pens</id>
+   <content type="html">&lt;p&gt;Google&amp;rsquo;s ad engine has decided that I really want a Livescribe pen.  I
+can tell, because the ad follows me &lt;em&gt;everywhere&lt;/em&gt;.  I don&amp;rsquo;t really
+mind, and it makes a certain amount of sense: this is the type of
+gadget that normally appeals to me.  But&amp;hellip; I write with a fountain
+pen when I can.  At the moment, my everyday pen is a Waterman Phileas,
+and my preferred ink is from Noodler&amp;rsquo;s.  I enjoy that too much to
+shrug and switch to a digital pen.&lt;/p&gt;
+
+&lt;p&gt;So how do I convey this information to Google?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Lemon and re2c</title>
+   <link href="http://dbindel.github.com/2012/01/05/lemon.html"/>
+   <updated>2012-01-05T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2012/01/05/lemon</id>
+   <content type="html">&lt;p&gt;I mentioned &lt;a href=&quot;http://www.bitbucket.org/dbindel/gmllua&quot;&gt;gmllua&lt;/a&gt; before &amp;ndash;
+this is the little tool that I wrote to translate GML files into
+Lua data structures for further processing.  I&amp;rsquo;ve been pretty happy with it.
+Alas, text formats like GML aren&amp;rsquo;t the most compact things, so I&amp;rsquo;ve taken
+to compressing the GML files on my drive that are associated with large
+networks.  It&amp;rsquo;s easy to read and write gzip files using 
+&lt;a href=&quot;http;//www.zlib.net/&quot;&gt;zlib&lt;/a&gt;, which has an interface that looks a lot like the
+standard C I/O interface.  So, I thought, why not glue zlib into gmllua
+so that I can read either plain GML files or gzipped GML files with the same
+code?&lt;/p&gt;
+
+&lt;p&gt;This should have been a simple task.  It probably would have been a simple task
+if flex were designed a little differently.  But flex is what it is, and what
+it is seems particularly ill suited to easily switching between multiple I/O
+libraries.  It didn&amp;rsquo;t take long for me to figure this out, and to decide that
+I didn&amp;rsquo;t really want to hack the generated code (though that probably would
+have been the fastest thing to do).  This is not the first time that I&amp;rsquo;ve been
+frustrated by the organization of flex and bison, so I decided that this was
+a good excuse to try something different: a parser generated using
+&lt;a href=&quot;http://www.hwaci.com/sw/lemon/&quot;&gt;Lemon&lt;/a&gt;
+and a lexer generated with
+&lt;a href=&quot;http://re2c.org/&quot;&gt;re2c&lt;/a&gt;.  It took about half a day to figure it out and make
+the port, despite the terse documentation.&lt;/p&gt;
+
+&lt;p&gt;I considered doing something with 
+&lt;a href=&quot;http://www.antlr.org/&quot;&gt;ANTLR&lt;/a&gt; as well, since it can supposedly 
+generate C output.  But I actually like LALR(1), and I really liked how
+neatly the stack associated with the LR parse matched the stack-oriented
+Lua interface.  And anyhow, it was pretty clear how to wire up re2c to
+read from different types of streams (since re2c doesn&amp;rsquo;t actually care
+how it gets the data).  Huzzah for small, sharp tools!&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GML and Lua</title>
+   <link href="http://dbindel.github.com/2011/12/29/gmllua.html"/>
+   <updated>2011-12-29T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/12/29/gmllua</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Graph_Modelling_Language&quot;&gt;Graph Modelling
+Language&lt;/a&gt; (GML) is a
+declarative format that is accepted by a variety of network analysis packages.
+I&amp;rsquo;ve recently found myself in a position where I want to do a variety of
+processing and translation tasks with GML files.  For example, I really like
+&lt;a href=&quot;http://www.yworks.com/en/products_yed_about.html&quot;&gt;yEd&lt;/a&gt; for graph layout,
+so I wanted to use yEd to import a GML file describing a graph, make a nice
+layout, export the result back to GML, and then produce a nice picture with
+&lt;a href=&quot;http://www.texample.net/tikz/&quot;&gt;TikZ&lt;/a&gt; for use in a presentation.  Along the
+way, I also wanted to generate the adjacency matrix for the graph in a form
+that I could load into MATLAB.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, when I read a GML file into yEd and then write out a
+GML file, I lose any information that yEd doesn&amp;rsquo;t care about.  And while
+it&amp;rsquo;s easy enough to write stupid scripts to do things like turning a GML file
+into a MATLAB adjacency matrix, it&amp;rsquo;s decidedly messier to do something that
+involves combining a source GML file, some MATLAB vectors representing node
+properties, and an output GML file from yEd.&lt;/p&gt;
+
+&lt;p&gt;Fortunately for me, the syntax of a configuration file in GML reminded me
+an awful lot of the syntax of configuration files written in
+&lt;a href=&quot;http://www.lua.org&quot;&gt;Lua&lt;/a&gt;.  I&amp;rsquo;ve been a fan of the &lt;a href=&quot;http://www.lua.org/&quot;&gt;Lua programming
+language&lt;/a&gt; for a long time, and have used it as the input
+language for a couple of my finite element codes.  It&amp;rsquo;s a small, fast language
+that was built for embedding into bigger codes.  It grew out of a configuration
+language for finite element codes, and it still makes an excellent
+configuration language.  And, as it turns out, it makes an excellent language
+for the sorts of processing tasks that I wanted to do with the GML files
+on my drive.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&quot;https://bitbucket.org/dbindel/gmllua&quot;&gt;gmllua&lt;/a&gt;, an extremely simple
+Lua-based system for processing GML files.  It didn&amp;rsquo;t take much time to write,
+because there&amp;rsquo;s not much to it: just a parser to convert GML files to Lua data
+structures, and some functions that walk over the resulting tree and produce
+useful output.  But that&amp;rsquo;s all I really needed.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tis the Season</title>
+   <link href="http://dbindel.github.com/2011/12/26/season.html"/>
+   <updated>2011-12-26T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/12/26/season</id>
+   <content type="html">&lt;p&gt;It seems that every couple years, I go a little nuts around the start of the
+new year.  Some years, this involves sticking my head under a blanket and
+going on a two-week-long fiction reading binge, with breaks to eat and to shower
+and (grudgingly) to sleep.  Somehow, I don&amp;rsquo;t think that&amp;rsquo;s going to happen any
+more, or at least not until the little one becomes sufficiently big that she
+also thinks that two weeks of nothing but reading sounds like fun.  But some
+years, a little voice in the back of my head says &amp;ldquo;hey, you&amp;rsquo;ve finally got a
+little time to fiddle with all those things you thought you were going to fiddle
+with earlier in the year!&amp;rdquo;  This little voice is, of course, somewhat deluded.
+The lack of immediate deadlines is not the same things as an excess of time,
+and what I really &lt;em&gt;should&lt;/em&gt; do is mark things of my list of deferred chores.
+But I listen to the little voice anyhow.  As I say, I go a little nuts.&lt;/p&gt;
+
+&lt;p&gt;Some years, my fiddling involves rewriting chunks of software, or launching
+headlong into a new bit of code.  This year, it looks like the part of my
+crocodile brain that evaluates shiny things has decided that infrastructure
+projects are particularly attractive.  So I now have a Windows development
+environment again (hosted under a virtual machine using Parallels), I have my
+repositories up on &lt;a href=&quot;http://www.bitbucket.org&quot;&gt;bitbucket&lt;/a&gt;, and I&amp;rsquo;ve mapped out
+some major clean-up tasks for my research codes.  I&amp;rsquo;m itching to finish the
+revisions to my &lt;a href=&quot;http://www.cs.cornell.edu/~bindel/sw/matexpr/&quot;&gt;matexpr&lt;/a&gt; tool,
+and to use this more powerful tool to factor out some redundant garbage in one
+of my finite element codes.  I&amp;rsquo;ve figured out how to convert PDF files to WMF
+files on my new Lion laptop, which seems to dislike pstoedit for reasons I
+cannot fathom.  This was susprisingly difficult.  And I figured out how to
+record screencasts on the same laptop.  This was surprisingly easy (start
+QuickTime Player and click &amp;ldquo;Record New Screencast&amp;rdquo; in the menu), though I&amp;rsquo;m
+still figuring out what precisely I want from these screencasts.&lt;/p&gt;
+
+&lt;p&gt;I could expend a lot of energy fighting these impulses, but that seems
+counterproductive.  I enjoy these infrastructure projects because they are
+fairly limited in scope and they involve a different sort of head scratching
+from research, teaching, or proposal writing.  But I do need to keep up with
+my other tasks, too.  So: this winter session, my mornings are for writing.
+If I do that, I figure I can keep the afternoons for hacking around,
+particularly if much of that hacking around produces something useful.&lt;/p&gt;
+
+&lt;p&gt;Could this be an early New Year&amp;rsquo;s resolution?  Or would calling it that just
+jinx my plans?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll</title>
+   <link href="http://dbindel.github.com/2011/12/15/jekyll.html"/>
+   <updated>2011-12-15T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/12/15/jekyll</id>
+   <content type="html">&lt;p&gt;Like the new look?  I moved my software from 
+&lt;a href=&quot;http://webby.rubyforge.org/&quot;&gt;webby&lt;/a&gt;
+to 
+&lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;jekyll&lt;/a&gt;
+using a theme based on 
+&lt;a href=&quot;http://twitter.github.com/bootstrap/&quot;&gt;Twitter&amp;rsquo;s Bootstrap framework&lt;/a&gt;.
+I started from
+&lt;a href=&quot;https://github.com/jgritman/Jekyll-Bootstrap-Template&quot;&gt;this template&lt;/a&gt;
+and modified 
+&lt;a href=&quot;http://techtinkering.com/2011/08/17/improving-related-posts-on-jekyll/&quot;&gt;someone else&amp;rsquo;s modified &amp;ldquo;relevant posts&amp;rdquo; script&lt;/a&gt;
+to work with tags.  Et voila!&lt;/p&gt;
+
+&lt;p&gt;Hey, it&amp;rsquo;s a good break from proposal writing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Repositories and clouds</title>
+   <link href="http://dbindel.github.com/2011/12/09/repo.html"/>
+   <updated>2011-12-09T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/12/09/repo</id>
+   <content type="html">&lt;p&gt;I spent some time this week moving several of my project repositories
+onto &lt;a href=&quot;http://bitbucket.org&quot;&gt;BitBucket&lt;/a&gt;, a project hosting service that
+supports my current favorite version control system (git) and provides
+unlimited public and private repositories to academic users.  If that
+doesn&amp;rsquo;t work out, it should be easy enough to clone my repositories
+from there to some other site.  That is, after all, part of the point
+of using a decentralized system like Git.&lt;/p&gt;
+
+&lt;p&gt;I also spent some time this week setting up virtual Windows and Linux
+boxes on my Mac laptop.  I expect I&amp;rsquo;ll primarily use these for testing
+that my software builds and runs correctly in these environments, and I
+hope it will be a good investment of time for the medium term.  But I also
+hope that it&amp;rsquo;s something I can discard in the long term, because I would
+really much rather do these build-and-test tasks on some hosting service,
+much as I would rather have my repositories live on some hosting service.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Colbert</title>
+   <link href="http://dbindel.github.com/2011/12/01/colbert.html"/>
+   <updated>2011-12-01T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/12/01/colbert</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.haydenplanetarium.org/tyson/watch/2010/01/29/stephen-colbert-interview-montclair-kimberley-academy&quot;&gt;Stephen Colbert interviewed Neil deGrasse Tyson&lt;/a&gt;
+out of character talking about science and society, about two years ago.  And
+it&amp;rsquo;s excellent for two reasons.  First, it&amp;rsquo;s a lot of fun to watch Colbert
+citing Latin roots and wisecracking on Oedipus.  Second, Tyson is a passionate
+guy.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a good way to cap a long semester.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Technical Thanksgiving</title>
+   <link href="http://dbindel.github.com/2011/11/23/thankful.html"/>
+   <updated>2011-11-23T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/11/23/thankful</id>
+   <content type="html">&lt;p&gt;I&amp;rsquo;m thankful for standards and software that supports them.  I can now
+charge my wife&amp;rsquo;s phone and my phone using the same micro-USB connector.  My
+machine can talk to a wide variety of printers without me worrying about
+getting the right drivers and fiddling with some file in the &lt;code&gt;etc&lt;/code&gt;
+subdirectory.  I haven&amp;rsquo;t had to worry about IRQ conflicts in ages.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thankful for ubiquitous networking and the services it supports.  I
+grumble about email sometimes, and sometimes I think better when disconnected.
+But it&amp;rsquo;s really handy to have my email and my calendar available whenever and
+wherever, and to be able to Google things.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thankful for cheap GPS.  My cell phone has a better sense of direction
+than I do.  How cool is that?&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thankful for improvements in battery technology (though we still have a
+ways to go).&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thankful for high level programming languages.  Since I started
+programming, it has gotten way easier to put together interesting software
+prototypes for ideas, and to avoid constantly writing boilerplate code.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m thankful that the week after Thanksgiving is the last week of
+instruction for the semester!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grading</title>
+   <link href="http://dbindel.github.com/2011/11/17/grading.html"/>
+   <updated>2011-11-17T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/11/17/grading</id>
+   <content type="html">&lt;p&gt;Some days, reading student code makes my eyeballs hurt.  Those days
+are more frequent at the end of the semester.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Steps</title>
+   <link href="http://dbindel.github.com/2011/11/11/steps.html"/>
+   <updated>2011-11-11T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/11/11/steps</id>
+   <content type="html">&lt;p&gt;I had the same conversation with students in my class three times today.  I
+said, &amp;ldquo;I&amp;rsquo;m not sure what&amp;rsquo;s wrong with your code, though this part looks
+suspicious.&amp;rdquo; I asked, &amp;ldquo;What was the last version of your code that worked?&amp;rdquo; 
+And I said, &amp;ldquo;I would go back and re-implement this in tiny steps, making
+sure at each stage that your code passes your test suite.&amp;rdquo;  And then I
+listed the steps that I went through, none of which involved more than a few
+lines of code, and described the types of problems that they could run into
+if each of those steps went awry.  And in each case, I heard &amp;ldquo;That makes
+sense; I just wasn&amp;rsquo;t sure how to break things down into smaller steps
+than the one I took.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a funny thing: the only way I know to make progress sometimes is to
+make mistakes constantly.  If I find the mistakes fast enough, there might
+be little enough time between fixing one problem and creating the next so
+that I at least don&amp;rsquo;t get confused about where the problem is!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Commonplace books</title>
+   <link href="http://dbindel.github.com/2011/11/08/commonplace.html"/>
+   <updated>2011-11-08T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/11/08/commonplace</id>
+   <content type="html">&lt;p&gt;A commonplace book is a sort of journal for keeping track of quotes,
+references, ideas, and other odds and ends.  These books were once
+more common than they are now, I think, though there are still those
+who keep something similar (I&amp;rsquo;m a big fan of 
+&lt;a href=&quot;http://www.cscs.umich.edu/~crshalizi/notebooks/&quot;&gt;Cosma Shalizi&amp;rsquo;s notebooks&lt;/a&gt;,
+for example).&lt;/p&gt;
+
+&lt;p&gt;I keep notes on a variety of topics, but some are scattered throughout
+my filesystem and others spill onto a zillion scraps of paper.  And
+every so often, I find myself explaining some trick or idea &amp;ndash;
+yesterday it was the representation of complex numbers as two-by-two matrices,
+today it was the idea that doubling the available storage when expanding
+an array can ensure bounded amortized copy overhead per element.  And I
+think, &amp;ldquo;if I kept better notes about when I learn tricks like this, I would
+probably be able to tell them where I learned this.&amp;rdquo;  But at the time,
+it seemed more interesting to learn these tricks and start using them than
+to write down where I first saw them.  Ah, well.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How much work does a new computer need?</title>
+   <link href="http://dbindel.github.com/2011/10/27/runningtime.html"/>
+   <updated>2011-10-27T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/10/27/runningtime</id>
+   <content type="html">&lt;p&gt;During the summer after my freshman year, I installed Linux on my
+computer.  It took me a weekend to get things basically running right.
+I was used to debugging interrupt conflicts and reformatting drives;
+I was not used to looking up all the information that my X driver wanted.
+It also took me some time to get the network configuration right, and
+I learned far more than I wanted to about the contents of the etc
+directory.  I was not careful about backups, mostly since the number of
+floppy disks involved would have been prohibitive.  I lost quite a bit
+of data.&lt;/p&gt;
+
+&lt;p&gt;Fast forward fifteen years, and here I sit with a new computer.  I&amp;rsquo;ve been
+working on and off setting it up over the course of the day, but most of that
+time has been spent trying to understand quantum spin while the computer
+shuffled all my old files from my Time Machine backup into my new home
+directory, then updated my system software from online sources, and then
+installed new versions of a bunch of programs &amp;ndash; Skype, Firefox, Dropbox, etc
+&amp;ndash; that I wouldn&amp;rsquo;t have even conceived of fifteen years ago.  I never had to
+debug an interrupt request conflict during the setup.  I wouldn&amp;rsquo;t dream of
+having to look up the refresh frequency on my monitor.  Things just work.
+And when I don&amp;rsquo;t understand why something is behaving as it is, I look it
+up with Google, and that just works.&lt;/p&gt;
+
+&lt;p&gt;As grouchy as I sometimes feel about the state of software engineering,
+days like today make me feel much more optimistic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Voodoo and the register keyword</title>
+   <link href="http://dbindel.github.com/2011/10/20/register.html"/>
+   <updated>2011-10-20T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/10/20/register</id>
+   <content type="html">&lt;p&gt;When the C programming language was born, the language was very close to the
+machine.  But both compiler technology and computer architecture have moved on
+since the invention of C in the early 1970s, and modern optimizing compilers
+sometimes translate in mysterious ways.  Writing high-performance code now can
+be as much about exposing opportunities for optimization and letting the
+compiler do its job as it is about micromanaging the details of what the
+compiler should do.  Human beings are better than compilers at seeing
+high-level aspects of an algorithm that might lead to better or worse
+performance; and compilers are typically much better at low-level tasks like
+scheduling instructions and allocating registers.&lt;/p&gt;
+
+&lt;p&gt;Though compilers are now typically better than humans at register allocation,
+the C programming language retains the &lt;code&gt;register&lt;/code&gt; keyword, which is supposed to
+be a hint to the compiler that it is appropriate to put a certain variable in a
+register.  Compilers are not required to take this hint; the only mandatory
+effect of declaring a variable to be a &lt;code&gt;register&lt;/code&gt; variable is that you are no
+longer allowed to take its address.  And yet, one of the most popular attempted
+optimizations for the matrix multiplication assignment in my high-performance
+computing class is to add &lt;code&gt;register&lt;/code&gt; annotations to a bunch of the variables,
+even though I tell the students that it will probably have no real impact.
+Why is this so?&lt;/p&gt;
+
+&lt;p&gt;I think the allure of &lt;code&gt;register&lt;/code&gt;, along with the allure of more grotty C tricks
+like &lt;a href=&quot;http://www.lysator.liu.se/c/duffs-device.html&quot;&gt;Duff&amp;rsquo;s device&lt;/a&gt;, is that it
+seems almost like a magical incantation.  Wouldn&amp;rsquo;t it be nice if there was a
+formula that some wizardly programmer could chant over code in order to make it
+go fast?  Of course, if there really is a formula, compiler writers now will
+incorporate it into the optimizer.  This may not be good for the mystique of
+code tuning, but it certainly makes good engineering sense.  After all, the
+magic of the computer is that it can automate things for which you can find
+a formula!&lt;/p&gt;
+
+&lt;p&gt;What is interesting about these tricks is not that they represent a sort of
+lore on how to optimize things now, but rather they are historical artifacts
+that show something about the joint evolution of machine architectures,
+compilers, and programming wisdom.  They aren&amp;rsquo;t magical in any real
+sense, but they surely are worth enjoying as evidence that programmers in
+the past were just as clever as we fancy ourselves to be today.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Disconnected operation</title>
+   <link href="http://dbindel.github.com/2011/10/07/disconnected.html"/>
+   <updated>2011-10-07T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/10/07/disconnected</id>
+   <content type="html">&lt;p&gt;When I was in high school, network connectivity seemed like a marvelous thing.
+I played with gopher (remember gopher?) over a relatively slow modem connection,
+and it was great.  But for the most part, I used the computer as an isolated
+object.  I spent most of my time programming, with breaks to look at paper
+documentation when it was necessary.&lt;/p&gt;
+
+&lt;p&gt;When I was an undergraduate, I worked almost exclusively on computers that were
+connected via the campus network.  But those computers were either desktop
+machines or servers that I connected to via desktop machines.  Nobody I knew
+had a laptop computer, for example, and there was no such thing as a smart
+phone yet.  So I was connected when at the computer, and disconnected
+otherwise.&lt;/p&gt;
+
+&lt;p&gt;In graduate school, I got my first laptop.  I was connected whenever I was on
+campus, but I had intermittent connectivity elsewhere, including the apartment
+where I lived during my last couple years at Berkeley.  So I still spent a lot
+of time in places where there was no network access (or none that I was willing
+to pay for).  I still sometimes used my laptop to write code or text when I was
+disconnected, but mostly I treasured doing other things in those times when
+there was no network available.  I spent a lot of time scribbling with a pen
+and pad.  This trend continued when I was a postdoc.&lt;/p&gt;
+
+&lt;p&gt;Things are more complicated now, for several reasons.  I have a smart phone,
+though I&amp;rsquo;ve gotten pretty good at leaving it alone when I want deliberately to
+disconnect.  But my phone is not tethered to my computer, so I often find
+myself in states of intermediate connectivity: able to check email on my
+phone), but not to respond efficiently, since typing on my phone is painfully
+slow; able to write code and browse online documentation, but kept by firewalls
+from checking that code into a central repository unless I&amp;rsquo;m willing to start a
+VPN and bounce my connection through three intermediate hosts; able to see when
+there are software updates I should apply, but unable to apply them until I&amp;rsquo;ve
+moved to a connection with higher bandwidth.  And every so often it dawns on me
+&amp;ndash; and I know I am not alone in this thought &amp;ndash; that this sort of intermediate
+level of connectivity can be miserably frustrating, and is not what I want.
+What I want is disconnected operation: just me, the computer, and a pad of
+paper, with no network at my fingertips by phone or other device.  But this
+state is surprisingly difficult to achieve.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Technology and teaching</title>
+   <link href="http://dbindel.github.com/2011/09/29/technology.html"/>
+   <updated>2011-09-29T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/09/29/technology</id>
+   <content type="html">&lt;p&gt;Our department does not currently offer courses on iPhone programming,
+or on building web frameworks with Django, on AJAX or HTML5, or on any of 
+a plethora of new programming languages and frameworks that come and go
+each month.  Even if we had the staff available to teach such courses,
+it&amp;rsquo;s not clear to what extent we would want to do so.  The technology
+du jour often has a short half-life, and we are not doing anyone a service
+if we teach skills that are too narrow to continue to be useful for many
+years after they are learned.&lt;/p&gt;
+
+&lt;p&gt;This topic came up in a recent faculty discussion, but it has stayed with
+me over the past couple days as I think ahead to the coming lectures in
+my parallel computing class.  I would like to think that this course has
+value because it offers students a framework for understanding serial and
+parallel performance, along with many examples of how to think about the
+complex interactions between hardware, software, and numerical algorithms
+in the process of designing high-performance numerical codes.  But at the
+same time, I &lt;em&gt;do&lt;/em&gt; teach technologies, even if many of them have been around
+for a while.  When I&amp;rsquo;ve taught this material in the past, I&amp;rsquo;ve always had a few
+students who were very pleased to tell me that my class is where they learned
+about Makefiles or gnuplot or some other piece of UNIX lore.  And I often think
+to myself that I would rather here how much they got out of the higher-level
+ideas in the class.&lt;/p&gt;
+
+&lt;p&gt;But&amp;hellip; I&amp;rsquo;m also glad that they feel happy about learning &lt;em&gt;something&lt;/em&gt;, and I do
+think there&amp;rsquo;s great value to learning some of these tools.  The details of a
+given tool are not so important as the realization that these tools exist, and
+can be used to do wonderful things in the right hands.  Learning UNIX means
+learning about how to cobble together an endless diversity of useful tools
+out of small, flexible commands; learning to use a profiler means gaining a
+deeper understanding of where our mental models of performance can go wrong;
+and learning about C pointer-chasing provides a valuable lesson in thinking 
+about levels of indirection.  Done right, teaching technologies &lt;em&gt;is&lt;/em&gt; about
+teaching ideas.  It&amp;rsquo;s as much about understanding that a thing can be done
+as about understanding all the grotty details used to do it.&lt;/p&gt;
+
+&lt;p&gt;And, of course, some of us enjoy the grotty details far too much ourselves
+to steer our students away from the pleasure of digging into them.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Teaching Scientific Computing vs Numerical Analysis</title>
+   <link href="http://dbindel.github.com/2011/09/22/scan-teaching.html"/>
+   <updated>2011-09-22T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/09/22/scan-teaching</id>
+   <content type="html">&lt;p&gt;For reasons that mostly boil down to staffing, we&amp;rsquo;re considering some revisions
+to our scientific computing course offerings at the undergraduate level.  One
+way forward is to retire the one-semester survey course, and encourage students
+to take a somewhat more advanced course that is a natural part of a
+two-semester sequence offered jointly with math.  But nothing is ever that
+simple, and I spent far more time than I intended this week chasing down the
+implications of such a change and putting them into a memo for the people
+involved in these courses.&lt;/p&gt;
+
+&lt;p&gt;One of the interesting questions that arises really boils down to philosophy:
+how much should an introductory course on numerical analysis focus on the
+mathematical properties of different methods, and how much should it focus on
+the intelligent application of those methods to problems drawn from application
+areas?  Or, more tersely, what&amp;rsquo;s the right balance between numerical analysis
+and scientific computing in an introductory class?&lt;/p&gt;
+
+&lt;p&gt;I think the group that usually teaches these classes more-or-less agrees that
+we should motivate our students by connecting numerical methods to the problems
+where they are used.  The traditional examples drawn from physics are one
+interesting source, but I think it&amp;rsquo;s exciting how many other places require
+large-scale computations with continuous mathematical models, too: the analysis
+of social networks, the design of movie recommendation systems, the processing
+of medical images, and the rendering of graphics for games and movies.  Of
+course, the real issue is that all of these applications involve knowledge
+beyond the understanding of numerical methods, and it can be hard to balance
+the desire for something realistic with the need to have projects with a
+reasonable scope.&lt;/p&gt;
+
+&lt;p&gt;I suppose these issues aren&amp;rsquo;t unique to scientific computing.  They just happen
+to be issues I&amp;rsquo;m thinking of in that context at the moment.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Technical Nonsense</title>
+   <link href="http://dbindel.github.com/2011/09/16/tech-nonsense.html"/>
+   <updated>2011-09-16T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/09/16/tech-nonsense</id>
+   <content type="html">&lt;p&gt;Literature is not about proper spelling and grammar.  Computer science
+is not about using Windows or UNIX effectively.  Mathematics is not about
+adding and subtracting numbers.  I think professors in most subjects
+live with the knowledge that most people in the world identify their fields
+with skills learned in primary school.  I&amp;rsquo;m sometimes annoyed and sometimes
+infuriated by people who assume that I spend my days adding columns of
+numbers (a task at which I have no particular skill) or fixing Windows
+(which I mostly don&amp;rsquo;t use).  And yet, I &lt;em&gt;do&lt;/em&gt; know how to add numbers;
+and I &lt;em&gt;do&lt;/em&gt; know something about working with Windows, and OS X, and Linux.
+Those aren&amp;rsquo;t things I know because I&amp;rsquo;m a mathematician and computer scientist.
+They just happen to be skills I picked up long ago, and now mostly take for
+granted when I use them in my day-to-day routine.  These are background skills,
+the technical nonsense that I mostly handle by habit without even thinking
+about it.&lt;/p&gt;
+
+&lt;p&gt;And yet, not everyone knows the same technical nonsense that I do.
+And one of the hardest parts of teaching, at least for me, is understanding
+when someone is confused not by a topic that seems subtle and interesting to
+me, but by a bit of technical nonsense that rarely even touches my
+conscious thoughts any more.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kindle</title>
+   <link href="http://dbindel.github.com/2011/09/09/kindle.html"/>
+   <updated>2011-09-09T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/09/09/kindle</id>
+   <content type="html">&lt;p&gt;I don&amp;rsquo;t have a Kindle device, but I do have the Kindle app on my phone.
+It would be nice if the battery life lasted longer, but otherwise I
+like reading fiction on my phone.  It&amp;rsquo;s easy to read one-handed,
+easy to get books, and easy to read in poor lighting.&lt;/p&gt;
+
+&lt;p&gt;That said:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I&amp;rsquo;m not likely to use it for reference books any time soon.  It&amp;rsquo;s 
+too hard to deal with footnotes.  Also, I have mixed feelings about
+the mathematical type.&lt;/li&gt;
+  &lt;li&gt;I don&amp;rsquo;t have to turn off a paper book during takeoff and landing.&lt;/li&gt;
+  &lt;li&gt;I like talking about the books on the shelf when visitors come by.&lt;/li&gt;
+  &lt;li&gt;I still like visiting the library.&lt;/li&gt;
+  &lt;li&gt;Reading to the toddler is better with paper.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thinking about a Ph.D. in computational science</title>
+   <link href="http://dbindel.github.com/2011/09/06/phd-in-cse.html"/>
+   <updated>2011-09-06T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/09/06/phd-in-cse</id>
+   <content type="html">&lt;p&gt;Several times a semester, I am asked by students coming from a background in
+engineering or the hard sciences about the possibility of pursuing scientific
+computing either through a graduate minor or a Ph.D. in computer science.
+I usually point students interested in a graduate minor toward our
+&lt;a href=&quot;http://www.cis.cornell.edu/cse/&quot;&gt;computational science and engineering minor field&lt;/a&gt;,
+which is often a better fit for what they want.  But answering the question
+about getting a Ph.D. in computer science is trickier.  I wrote a reply
+to one such message last night, and I think it might be worth summarizing
+what I said for my own future use.&lt;/p&gt;
+
+&lt;p&gt;Computational science work is naturally interdisciplinary, and it&amp;rsquo;s helpful to
+approach it with a broad background in computer science, mathematics, and some
+application area.  Some universities have interdisciplinary CSE programs that
+make these breadth requirements explicit.  At most places, though,
+computational science research takes place within departments of computer
+science, mathematics, or application fields.  Departments have their own
+breadth requirements, and these requirements make it impractical for most
+people to do a Ph.D. in a field where they lack significant undergraduate
+coursework.  For example, a graduate student in computer science at Cornell is
+required to take competency requirements in artificial intelligence,
+programming languages, systems, and theory.  These requirements would be quite
+challenging for a student without some CS coursework, even if that student had
+a strong programming background.  As a practical matter, then, someone who
+comes primarily from a physics background and wants to do a Ph.D. in
+computational science should probably look for physics programs with
+computationally-oriented faculty rather than looking for CS programs.  It just
+makes it easier to jump through the initial hoops, leaving students with more
+time to get the breadth of background that they will need to do good
+computational work.&lt;/p&gt;
+
+&lt;p&gt;Apart from determining the program requirements (including the breadth
+requirements), one&amp;rsquo;s major in graduate school doesn&amp;rsquo;t particularly limit one&amp;rsquo;s
+options.  I have my Ph.D. in computer science, but my graduate coursework
+was almost equal parts in math, CS, and mechanical engineering, and I was
+co-advised by a civil engineer working in computational mechanics.  This
+path turned out to never be an issue.  Now that I&amp;rsquo;m on the other side of
+the fence, I have students in applied physics and applied mathematics in
+addition to CS students, and I&amp;rsquo;m an outside committee member for many
+applied math and engineering students, which has also turned out to never
+be an issue, at least so far.&lt;/p&gt;
+
+&lt;p&gt;While the choice of a major in graduate school is not directly vital to
+the type of research training a student can undertake, the choice of advisor
+&lt;em&gt;is&lt;/em&gt; critical.  Of course, it is important to have an advisor who can help
+guide a student through an interesting dissertation project.  But the advisor
+also plays a critical role in introducing students to a research community,
+and in introducing the students to the norms of that community.  So an
+outstanding scientist who uses computation tangentially in his work might
+not be the ideal advisor for a student who wants to work in computational
+methods, even though he might be very well qualified to introduce the student
+to the computational ideas to which he is frequently exposed.  Of course,
+a Ph.D. advisor is not the only source of advice in graduate school,
+but he or she should still ideally be a broad source of advice.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cheap, fast, or good?</title>
+   <link href="http://dbindel.github.com/2011/08/25/cheap-fast-good.html"/>
+   <updated>2011-08-25T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/08/25/cheap-fast-good</id>
+   <content type="html">&lt;p&gt;There&amp;rsquo;s an old saying about software projects (and perhaps about
+other projects as well).  You can have it cheap, fast, or good &amp;ndash;
+pick any two.  I thought about this yesterday while I was putting
+together the first lecture for my parallel computing class.  These
+words mean different things in different contexts.  In commercial
+software design, &amp;ldquo;cheap&amp;rdquo; might refer to money, &amp;ldquo;fast&amp;rdquo; to development speed,
+and &amp;ldquo;good&amp;rdquo; to the robustness and features of the project.  In parallel
+scientific software, &amp;ldquo;cheap&amp;rdquo; might refer to development effort (paid for in
+time or money), &amp;ldquo;fast&amp;rdquo; might refer to time-to-solution, and &amp;ldquo;good&amp;rdquo; might refer
+to the approximation error in the computed solution.  But a funny thing happens
+in parallel software, which is that you have to go through every combination
+in order to get fast-and-good.  Cheap-and-fast estimates are a staple of
+engineering estimates, and it&amp;rsquo;s just good practice to have a rough idea of
+what your answers will look like before starting any computation.
+Cheap-and-good (but slow) codes are extremely helpful in testing the accuracy
+of more sophisticated methods, even if they can only be used on small problem
+instances.  So to develop a fast-and-good parallel scientific code, you want 
+to first do the cheap things, just so that you don&amp;rsquo;t destroy the quality of
+your computed answers by bugs introduced in the quest for better parallel
+performance.&lt;/p&gt;
+
+&lt;p&gt;Of course, a remarkable number of attempts to build fast parallel codes
+produce results that are neither cheap, nor fast, nor good.  And this is 
+part of why I teach my class.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why eigenvalues?</title>
+   <link href="http://dbindel.github.com/2011/08/24/why-eigs.html"/>
+   <updated>2011-08-24T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/08/24/why-eigs</id>
+   <content type="html">&lt;p&gt;It&amp;rsquo;s the start of a new academic year.  Among other things, that means that I
+get to introduce myself to new students and to tell them briefly about the
+things I work on.  Brevity and humor go a long way in such introductions, so I
+usually just say that I&amp;rsquo;m obsessed with eigenvalues, and give one or two
+examples of projects I work on that boil down to spectral analysis &amp;ndash;
+preferably the types of problems where the connection isn&amp;rsquo;t completely obvious,
+since those tend to draw more interest and lead to more interesting follow-up
+conversations.&lt;/p&gt;
+
+&lt;p&gt;Of course, just because I&amp;rsquo;m obsessed with eigenvalues doesn&amp;rsquo;t mean anyone else
+should be.  Furthermore, if I really was only interested in these things out of
+some psychological abnormality, I probably wouldn&amp;rsquo;t be particularly good at
+interesting anyone else, and getting other people interested is a big part of
+the game.  So, other than obsession, why do I think eigenvalues are
+interesting?  My top three reasons are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Eigenvalue analysis lets me decouple the dynamics of systems.  Instead of
+having to understand the evolving interactions of a hundred different
+quantities, I can focus on one interaction mode at a time.  This sort of
+analysis is tremendously powerful even if I&amp;rsquo;m interested in nonlinear 
+dynamical systems, since I can use eigenvalues and eigenvectors to 
+describe the start of phenomena like bucking or the birth of unstable 
+oscillations.&lt;/li&gt;
+  &lt;li&gt;Eigenvalue problems are a type of nonlinear equation that I know how to
+solve.  So if I can turn your problem into an eigenvalue problem, I can
+probably figure out how to solve it.  Because there is an intimate 
+connection between eigenvalues and polynomials, I can turn an awful lot 
+of problems involving polynomials into eigenvalue problems, so it&amp;rsquo;s not 
+so implausible that I might be able to turn your problem into an 
+eigenvalue problem.&lt;/li&gt;
+  &lt;li&gt;Similarly, symmetric eigenvalue problems are almost the only non-convex
+optimization problem where I know how to find globally optimal solutions.
+Consequently, when I find things that aren&amp;rsquo;t actually eigenvalue problems 
+but are something much harder, I&amp;rsquo;m tempted to take off my glasses and 
+ask if it doesn&amp;rsquo;t look like an eigenvalue problem after all.  Enough other 
+people have this same temptation that it has a special name: continuous 
+relaxation.&lt;/li&gt;
+&lt;/ol&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Numerical debugging</title>
+   <link href="http://dbindel.github.com/2011/03/18/debug.html"/>
+   <updated>2011-03-18T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2011/03/18/debug</id>
+   <content type="html">&lt;p&gt;I spent an enormous fraction of this week helping students debug numerical
+code.  Since I keep repeating the same things in these conversations, it
+probably makes sense to write a few of them down.&lt;/p&gt;
+
+&lt;h4 id=&quot;start-small&quot;&gt;Start small&lt;/h4&gt;
+
+&lt;p&gt;In general, it&amp;rsquo;s easier to debug a five line routine that does one basic task than to debug a thirty line routine that does six things.  You&amp;rsquo;d really rather not be in the position of having to look at several hundred or thousand lines of code in order to diagnose a problem that some basic sanity checks would have caught when you were looking at a much smaller code segment.&lt;/p&gt;
+
+&lt;h4 id=&quot;show-pictures&quot;&gt;Show pictures&lt;/h4&gt;
+
+&lt;p&gt;One of the beautiful things about numerical code is that the results can often
+be interpreted in terms of pictures &amp;ndash; and it&amp;rsquo;s often easier to see wrong
+behavior in a picture than in a table of numbers.  You can get terrific insight
+from looking at convergence plots, visualizations of solutions, plots of
+functions that you&amp;rsquo;re supposedly minimizing, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;use-consistent-notation&quot;&gt;Use consistent notation&lt;/h4&gt;
+
+&lt;p&gt;If you let n be a very small number, epsilon be a loop index, and i be a
+logical flag, you shouldn&amp;rsquo;t be surprised when you overlook a type error that
+should have been obvious.  Even in very short code segments, notation matters.&lt;/p&gt;
+
+&lt;h4 id=&quot;assert-your-invariants&quot;&gt;Assert your invariants&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s often easy to check that an output satisfies some basic properties (such
+as satisfying an equation or a range condition).  If something is going wrong
+in a sequence of steps and you&amp;rsquo;re not sure where, it makes sense to explicitly
+test at each step that the output of one step (and input of the next) satisfies
+the properties you think it ought to have.&lt;/p&gt;
+
+&lt;h4 id=&quot;write-unit-tests&quot;&gt;Write unit tests&lt;/h4&gt;
+
+&lt;p&gt;It&amp;rsquo;s a useful skill to decide in advance what properties each function is
+supposed to have, and to write a little test script that makes sure your
+functions do indeed have the right properties.  And if you&amp;rsquo;ve gone to the
+trouble of writing a test, it might be worth keeping it around for later.&lt;/p&gt;
+
+&lt;h4 id=&quot;think-about-hard-cases&quot;&gt;Think about hard cases&lt;/h4&gt;
+
+&lt;p&gt;If there is a singular case that could cause your code to face plant, you
+should make sure to check that your code handles that case (and nearby
+problems) with some modicum of grace.&lt;/p&gt;
+
+&lt;h4 id=&quot;beware-non-fatal-errors&quot;&gt;Beware non-fatal errors&lt;/h4&gt;
+
+&lt;p&gt;Watch out for code that &amp;ldquo;works&amp;rdquo; on the first try.  Are you getting the speed
+and accuracy you expected?  For example, Newton&amp;rsquo;s method converges (locally)
+quadratically to the solution to a nonlinear equation, but many almost-Newton
+methods converge linearly.  If your code for Newton iteration converges, that
+doesn&amp;rsquo;t actually mean that you&amp;rsquo;ve computed all your derivatives correctly (for
+example) &amp;ndash; it just means that you&amp;rsquo;re close enough to get something convergent.
+The difference will only show up if you look at details of the rate of
+convergence.&lt;/p&gt;
+
+&lt;h4 id=&quot;beware-error-propogation&quot;&gt;Beware error propogation&lt;/h4&gt;
+
+&lt;p&gt;Watch out for ill-posed intermediate problems.  Just because two codes are
+accurate on their own does not mean the composition of those codes will be
+accurate in arbitrary settings.&lt;/p&gt;
+
+&lt;h4 id=&quot;not-all-errors-are-numerical&quot;&gt;Not all errors are numerical&lt;/h4&gt;
+
+&lt;p&gt;If Matlab tells you that you&amp;rsquo;re trying to solve a nearly-singular linear
+system, there may be some numerical issue in your problem formulation that you
+should worry about.  Or you might have made an indexing mistake when you set up
+the matrix in the linear system.  Think a little bit before ruling out the
+possibility that your bug might have nothing to do with numerical subtleties
+and everything to do with good old-fashioned off-by-one mistakes.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Failure analysis and exam design</title>
+   <link href="http://dbindel.github.com/teaching/2011/02/24/exam.html"/>
+   <updated>2011-02-24T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/teaching/2011/02/24/exam</id>
+   <content type="html">&lt;p&gt;The basic quantitative reasoning and introductory calculus classes at &lt;span class=&quot;caps&quot;&gt;NYU&lt;/span&gt; are (or perhaps were) organized into small teaching teams: a graduate student, a postdoctoral instructor, and a professor would work together, teaching separate lectures, but meeting regularly to agree on common topics, quizzes, homeworks, and exams.  The system worked pretty well, and I learned a tremendous amount from Al Novikoff by co-teaching a class on &amp;#8220;Understanding the Mathematical Patterns in Nature&amp;#8221; with him during my first year as a Courant instructor.  Al is very good at designing fair, gradeable quizzes and exams, because he designs toward student failure modes.  For each question we wrote, Al would always ask &amp;#8220;what are the ways we expect students to get this wrong?&amp;#8221;  In the discussion that ensued, the group usually figured out what the common wrong answers would be, though there were always a couple surprises that we missed.  We could then decide whether the question was okay, too easy, too hard, or just too hard to grade.&lt;/p&gt;
+&lt;p&gt;I still try to predict failure modes when I write my exams, but it&amp;#8217;s hard to get it right.  Part of the intrinsic difficulty &lt;del&gt;-&lt;/del&gt; indeed, part of the intrinsic difficulty of most teaching activities &lt;del&gt;-&lt;/del&gt; is that I am not my students, and I have to constantly revise my mental model of what students will know or not know, what they will find difficult or easy.  And sometimes, the really hard part of understanding how students are thinking is understanding that there is something to think about!  We get too close to our material, and forget sometimes that just because a student has had multivariable calculus does not mean they understand logarithms as thoroughly as we might take for granted.&lt;/p&gt;
+&lt;p&gt;Teaching is a learning experience in many ways.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>The value of homework</title>
+   <link href="http://dbindel.github.com/2011/02/18/homework.html"/>
+   <updated>2011-02-18T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/02/18/homework</id>
+   <content type="html">&lt;p&gt;I learn mathematics not through my eyes, but through my fingers.  I sympathize
+with students who would prefer not to listen to me lecture.  If I were in their
+shoes, I would probably find it more productive to work problems most of the
+time.  I try to incorporate in-class problem-solving into my classes for
+precisely that reason.  But there is not enough time in lecture to really dig
+into a problem, getting lost on side tracks and running around in circles while
+only gradually closing in on the answer.  To me, the value of homework lies in
+that process of getting lost often enough so that your fingers can work past
+the algebraic thickets without distracting the rest of you from your high-level
+task.  It&amp;rsquo;s hard to design homework problems that force students into the
+algebraic thickets while providing both enough tools for them to make their way
+through and enough connections to &amp;ldquo;the real world&amp;rdquo; so that nobody complains
+that the homework is pointless.  But we try, and we keep trying.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Things to do</title>
+   <link href="http://dbindel.github.com/2011/02/10/todo.html"/>
+   <updated>2011-02-10T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/02/10/todo</id>
+   <content type="html">&lt;p&gt;I have kept short to-do lists on paper for forever, and in the past I&amp;rsquo;ve always
+had trouble when I tried to write electronic lists.  Usually, I fall into the
+trap of writing electronic to-do lists with far too many items on them, so that
+it&amp;rsquo;s inconceivable that I might cross off the majority (or even a substantial
+minority) of the items on the list in a single day.  I don&amp;rsquo;t do that with paper
+lists because I write more slowly than I type.  But paper lists don&amp;rsquo;t
+automatically maintain themselves, and it&amp;rsquo;s easy forget to add dated items.&lt;/p&gt;
+
+&lt;p&gt;Enter &lt;a href=&quot;http://todotxt.com/&quot;&gt;Gina Trapani&amp;rsquo;s todo.txt&lt;/a&gt; shell script and Android
+application, which I have been using happily for the past couple weeks.  The
+nice thing about this is that it&amp;rsquo;s just an ordinary text file and some shell
+scripts to maintain it, and so I can integrate it into a pre-exsting system of
+scripts and files.  I keep a list of projects, ideas, etc. in an &lt;a href=&quot;http://orgmode.org/&quot;&gt;Emacs org
+mode&lt;/a&gt; file, and when I started using the todo script, I
+made one minor extension: a little script that goes through my projects file,
+pulls out dated tags, and adds them to my todo list.  That way, the todo list
+does not get so long that I start ignoring it, but it&amp;rsquo;s constantly refreshed
+with things that I realized some time before that I would need to do on this
+day.&lt;/p&gt;
+
+&lt;p&gt;And now I get to cross writing here from my to-do list for today.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Effective graduate school applications</title>
+   <link href="http://dbindel.github.com/2011/02/02/gradapps.html"/>
+   <updated>2011-02-02T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/02/02/gradapps</id>
+   <content type="html">&lt;p&gt;Last year, I was on the admissions committees for both computer science and
+applied mathematics.  Consequently, I spent an inordinate amount of time in
+January reading folders.  I agreed to serve on both committees again this year.
+The end of this process is in sight now, but before I put it behind me and get
+on with the semester, I thought I would share what I&amp;rsquo;ve observed about the
+folders that stand out.&lt;/p&gt;
+
+&lt;p&gt;I look for two things: background and research potential.  The CS Ph.D. program
+at Cornell has qualifying exam requirements in theory, systems, AI, and PL that
+should be passed in the first couple semesters.  A student who will struggle
+with those requirements is a risk.  On the other hand, a student with great
+coursework who has never worked on an undergraduate research project is also a
+risk.  There are exceptional students who are clear stars despite a lack of
+research experience or a hole in their background.  But those students are the
+exceptions, and not the rule.&lt;/p&gt;
+
+&lt;p&gt;Strong applicants have strong transcripts.  Though I adjust my criteria some
+depending on what I know of grade inflation at different schools (including
+what I can learn from the letter writers and from the other people reading
+folders), I look for mostly A or A- grades at most schools.  I don&amp;rsquo;t mind a
+handful of B grades.  But if a student who wants to study AI has B- grades in
+AI classes, I wonder.  I care about the quality of the courses, too.  A student
+who wants to study systems should have more than one good systems courses in
+her transcript.&lt;/p&gt;
+
+&lt;p&gt;Strong applicants come with letters that say they are special.  A letter that
+says &amp;ldquo;Sally came to my office hours frequently, and did very well in class&amp;rdquo;
+does not lower my opinion of Sally, but it does not have nearly the impact of a
+letter that says &amp;ldquo;Sally made an important contribution to the research done by
+my group, and will be the third author on a major journal publication.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Strong applicants have experiences with strong places.  That does not mean that
+every applicant must attend a major research university; there are some
+outstanding small liberal arts schools that graduate highly talented students.
+It does mean that I place much more weight on an applicant from the University
+of Eastern West Northlands if she has a glowing letter written from a summer
+research project mentor at MIT.&lt;/p&gt;
+
+&lt;p&gt;I care about the statement of purpose.  I want to read statements that tell me
+in clear terms why the applicant would like to attend Cornell, in what areas
+she might want to work, and which faculty she finds particularly exciting.  I
+want to see that the student understands what she did in her research, and did
+not just follow directions without ever learning about the broader context.&lt;/p&gt;
+
+&lt;p&gt;I understand that beginning graduate students generally don&amp;rsquo;t know the topic of
+their dissertation.  But I want to see that they have a feasible idea of where
+they might start.  I am not impressed by a student who says she wants to do
+research on proving P != NP, and I am worried by a student who says she is
+fascinated by the work of one professor and would not dream of working with
+someone else.  Murphy&amp;rsquo;s Law does not go away in graduate school, and the most
+famous professor in the department cannot advise an infinite number of
+students.  By all means, dream big, but have a backup.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A note to IIT internship applicants</title>
+   <link href="http://dbindel.github.com/2011/01/30/iit.html"/>
+   <updated>2011-01-30T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/01/30/iit</id>
+   <content type="html">&lt;p&gt;If you are reading this, it is likely because you are an IIT student who wrote
+me to seek an internship, and I directed you here.  At present, I do not have
+internship opportunities for students outside Cornell.  If you are really
+interested in doing research with me, please do consider applying to our Ph.D.
+program when you graduate!  In the mean time, though, I would like to mention a
+two points that may help you in your search (adapted from a 
+&lt;a href=&quot;http://www.phdcomics.com/proceedings/viewtopic.php?t=18353&amp;amp;sid=26d4857156691cd51ef004ba4deafac4&quot;&gt;Ph.D. comics post&lt;/a&gt; that is worth checking out).&lt;/p&gt;
+
+&lt;p&gt;First: Your letter is a writing sample.  Treat it as such.  Check your spelling,
+punctuation, and usage before you send anything.  Describe your qualifications
+clearly, but concisely.  Leave out the sentence &amp;ldquo;I have a passion for your
+research area&amp;rdquo;; instead, show your passion by describing why my research area
+interests you.&lt;/p&gt;
+
+&lt;p&gt;Second: I appreciate when students are interested in my work.  If you write me
+an email that addresses me and mentions reasons you specifically would like to
+work with me (and specific qualifications that are relevant to my work), I will
+at least try to send a polite reply, and I will likely remember your email
+later.  In contrast, if you send the same form email to me that you sent to
+thirty other CS professors, I will likely reply tersely (if at all) and forget
+about it within minutes.&lt;/p&gt;
+
+&lt;p&gt;Cornell CS is trying a small IIT internship program this summer.  You may want
+to contact your department&amp;rsquo;s internship coordinator to find out about the
+details.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Letters of recommendation</title>
+   <link href="http://dbindel.github.com/2011/01/17/recommendations.html"/>
+   <updated>2011-01-17T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2011/01/17/recommendations</id>
+   <content type="html">&lt;p&gt;If you are reading this, it is likely because I pointed you here after you
+asked me for a letter of recommendation on your behalf, and I would like to
+make a few points that might help us both.&lt;/p&gt;
+
+&lt;p&gt;You want references who think you are great and will support that opinion
+with specific examples.  I may be able to recommend you warmly for many
+reasons.  Perhaps you did interesting work in a class project or asked lots of
+interesting questions in class, or perhaps you improved remarkably from a rocky
+start.  I have written letters that praised students for all these reasons.  If
+I ask you why you requested a letter from me in particular, I am probably
+trying to put together in my mind the specific details that should go into your
+letter.  If you think there are details I might have forgotten, feel free to
+remind me.&lt;/p&gt;
+
+&lt;p&gt;Ideally, your references should provide a broad picture of your abilities,
+with each recommender emphasizing different aspects.  To understand the broad
+picture you are trying to convey, as well as the role my letter will play in
+conveying this picture, it will help me to see your current CV and other
+application materials, and it may be helpful to tell me who else is writing
+recommendations for you.&lt;/p&gt;
+
+&lt;p&gt;Be clear about the logistical details.  Tell me about deadlines, about how
+letters should be submitted, and about any specific requirements for the
+letter.  As long as you don&amp;rsquo;t pester me every day or two, I also won&amp;rsquo;t mind if
+you send me a reminder if the deadline draws close and I haven&amp;rsquo;t already sent
+something.  &lt;/p&gt;
+
+&lt;p&gt;If you are able, come talk to me in person about your recommendation.  It
+makes life much easer.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A new forum</title>
+   <link href="http://dbindel.github.com/2010/12/09/starting.html"/>
+   <updated>2010-12-09T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2010/12/09/starting</id>
+   <content type="html">&lt;p&gt;Welcome to Eigenmumbles.  This is meant as a place for me to write notes,
+rants, musings, doggerel, and other things that I might not otherwise write.
+It is also a good excuse to play with &lt;a href=&quot;http://webby.rubyforge.org/&quot;&gt;webby&lt;/a&gt;,
+&lt;a href=&quot;http://www.mathjax.org/&quot;&gt;MathJax&lt;/a&gt;, and other web-related things that I might
+not otherwise play with.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fictitious forces and skew matrices</title>
+   <link href="http://dbindel.github.com/2010/12/09/rotating.html"/>
+   <updated>2010-12-09T00:00:00-05:00</updated>
+   <id>http://dbindel.github.com/2010/12/09/rotating</id>
+   <content type="html">&lt;p&gt;In order to figure out some gyroscope simulations recently, I had to go back
+and revisit the derivation of fictitious forces in rotating frames.  I always
+got confused by this the first time I was exposed to it, partly because I
+didn&amp;rsquo;t really understand the relation between cross products, rotations, and
+skew symmetric matrices back then.  I worked it out for myself, and my notes
+have been sitting quietly in a corner of my drive since then.  So this is my
+excuse to see how well &lt;a href=&quot;http://www.mathjax.org&quot;&gt;MathJax&lt;/a&gt; works.&lt;/p&gt;
+
+&lt;p&gt;Suppose that $x(t) \in \mathbb{R}^3$ 
+represents the position of a material point in a rotating reference frame, 
+and $y(t) \in \mathbb{R}^3$ represents the point in an 
+inertial frame.  The two coordinate vectors are connected by an orthogonal 
+matrix,
+$$
+  y(t) = Q(t) x(t).
+$$
+Acceleration is the second derivative in the inertial frame, i.e.
+$$
+  a = \ddot{y} = \ddot{Q} x + 2\dot{Q} \dot{x} + Q \ddot{x},
+$$
+and the inertial force is $ma(t)$ in the inertial frame.&lt;/p&gt;
+
+&lt;p&gt;In the rotating frame, the inertial force is
+$$
+  m Q^T a = m ( Q^T \ddot{Q} x + 2Q^T \dot{Q} \dot{x} + \dot{x} ).
+$$
+The $m \ddot{x}$ term is straightforward enough,
+but clearly we need to understand $Q^T \dot{Q}$ and
+$Q^T \ddot{Q}$.  To do this, it&amp;rsquo;s useful to write
+$\dot{Q}$ as $\dot{Q} = Q S$. 
+Remember that $Q$ satisfies the identity
+$$
+  Q^T Q = I,
+$$
+so $\dot{Q}^T Q + Q^T \dot{Q} = S^T + S = 0$; that is, 
+$S$ is a skew-symmetric matrix.  Multiplying a vector 
+by a skew symmetric matrix is exactly equivalent to taking a cross 
+product with a vector, so we might also write $S = \Omega \times$.
+If we differentiate the relation $\dot{Q} = Q S$, we have
+$$
+  \ddot{Q} = \dot{Q} S + Q \dot{S} = Q (S^2 + \dot{S}).
+$$
+Therefore, we can write the inertial force in the rotating frame as
+$$
+  m Q^T a = m ( S^2 x + \dot{S} x + 2 S \dot{x} + \ddot{x} ).
+$$
+We now give names to each of the pieces of this expression.  The centrifigul force is 
+$$
+  -m S^2 x = -m \Omega \times (\Omega \times x), 
+$$
+the Coriolis force is 
+$$
+  -2m S \dot{x} = 2 m \Omega \times \dot{x},
+$$
+and the Euler force (which vanishes if the rate of rotation $S$ is constant) is 
+$$
+  -\rho \dot{S} x = -\rho \dot{\Omega} \times x.
+$$&lt;/p&gt;
+
+&lt;p&gt;What do I take away from all this?  Three things, I think:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&amp;ldquo;Fictitious forces&amp;rdquo; is just a fancy way of refering to the product rule.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.textism.com/tools/textile/&quot;&gt;Textile&lt;/a&gt; intrudes
+just enough into the raw input text that it can screw up MathJax.
+Better be careful mixing the two systems.&lt;/li&gt;
+  &lt;li&gt;Debugging problems with MathJax &amp;ndash; like debugging problems with LaTeX,
+I suppose &amp;ndash; is not altogether easy.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;UPDATE (2012-01-31): Actually, I&amp;rsquo;m now using Markdown via kramdown,
+and it works just fine with MathJax.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's in a Name? Numerical Analysis, Scientific Computing, and CSE.</title>
+   <link href="http://dbindel.github.com/2009/07/01/names.html"/>
+   <updated>2009-07-01T00:00:00-04:00</updated>
+   <id>http://dbindel.github.com/2009/07/01/names</id>
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;
+&lt;q&gt;Then you should say what you mean,&lt;/q&gt; the March Hare went on.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;q&gt;I do,&lt;/q&gt; Alice hastily replied; &lt;q&gt;at least--at least I mean what I
+say--that's the same thing, you know.&lt;/q&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;q&gt;Not the same thing a bit!&lt;/q&gt; said the Hatter. &lt;q&gt;You might just as well
+say that 'I see what I eat' is the same thing as 'I eat what I
+see!'&lt;/q&gt;
+&lt;/p&gt;
+&lt;small&gt;
+Lewis Carroll, 
+&lt;a href=&quot;http://www.gutenberg.org/ebooks/928&quot;&gt;Alice's Adventures in Wonderland&lt;/a&gt;
+&lt;/small&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During a &lt;a href=&quot;http://www.siam.org/news/news.php?id=1214&quot;&gt;panel session on &amp;ldquo;the future of numerical analysis&amp;rdquo; at ICIAM
+2007&lt;/a&gt;, there was a lively debate about what we should call our
+field.  Is numerical analysis the right name, or should we call
+our work scientific computing, or computational science and
+engineering?  I don&amp;rsquo;t think there is necessarily a &amp;ldquo;right&amp;rdquo; name for
+this area, but I do think that the different names emphasize different
+aspects of the field.  This note is my attempt to clarify what &lt;em&gt;I&lt;/em&gt;
+mean when I refer to numerical analysis, scientific computing, or
+computational science and engineering.&lt;/p&gt;
+
+&lt;h3 id=&quot;numerical-analysis&quot;&gt;Numerical Analysis&lt;/h3&gt;
+
+&lt;p&gt;In mathematics, the word &amp;ldquo;analysis&amp;rdquo; usually refers to the
+study of continuous things and the limiting processes that define
+them.  Numerical analysis combines the ideas of analysis with numerical
+computation.  As Trefethen puts it in his &lt;a href=&quot;http://www.comlab.ox.ac.uk/nick.trefethen/publication/PDF/1992_55.pdf&quot;&gt;essay on the definition of
+numerical analysis&lt;/a&gt;, &amp;ldquo;numerical analysis is the study of algorithms
+for the problems of continuous mathematics.&amp;rdquo;
+Like other areas of mathematical analysis, numerical is &lt;em&gt;not&lt;/em&gt; purely
+analytical in the conventional sense.  Numerical analysis is also
+about &lt;em&gt;synthesis&lt;/em&gt; of new methods.  We are, among other things,
+engineers of mathematics, and we balance tradeoffs between different
+approximations in order to design methods that are both fast enough
+and accurate enough.&lt;/p&gt;
+
+&lt;p&gt;Of course, it is a little silly to parse field names too closely.  The
+meaning of &amp;ldquo;numerical analysis&amp;rdquo; lies in how we use the phrase more
+than in the meanings of the component words.  Still, it seems to me
+that we say &amp;ldquo;numerical analysis&amp;rdquo; most often when we refer to the
+mathematical aspects of numerical method design and analysis.&lt;/p&gt;
+
+&lt;h3 id=&quot;scientific-computing&quot;&gt;Scientific Computing&lt;/h3&gt;
+
+&lt;p&gt;I have a book on my shelf entitled &lt;a href=&quot;http://www.siam.org/students/resources/report.php&quot;&gt;Theoretical Numerical
+Analysis&lt;/a&gt;.  You can probably guess that it is about the theory
+underlying various numerical methods, with a particular emphasis on
+the approximation of differential and integral operators.  I do not
+have a book called Theoretical Scientific Computing, and I have a hard
+time imagining what such a book would even cover.  So if scientific
+computing doesn&amp;rsquo;t mean the same thing as numerical analysis, what does
+it mean?&lt;/p&gt;
+
+&lt;p&gt;If numerical analysis is about the mathematical aspects of numerical
+method design and analysis, scientific computing is about the aspects
+that involve the computer.  When I worry about cache architecture, or
+when I parallelize numerical methods, or when I build little tools to
+automatically generate parts of my scientific codes, I work on
+scientific computing.  The relationship between scientific computing
+and numerical analysis is, I think, similar to the relationship
+between theoretical computer science and systems design &amp;ndash; they&amp;rsquo;re two
+distinct areas, though the line between them is fuzzy and neither
+would thrive alone as well as they thrive together.&lt;/p&gt;
+
+&lt;h3 id=&quot;computational-science-and-engineering&quot;&gt;Computational Science and Engineering&lt;/h3&gt;
+
+&lt;p&gt;Computational science and engineering (CSE) research combines
+applications, mathematics, and software.  Numerical analysis and
+computer science are critical to CSE work, but the research is driven
+by applications to scientific and engineering.  According to the &lt;a href=&quot;http://www.siam.org/students/resources/report.php&quot;&gt;SIAM
+Working Group on CSE Education&lt;/a&gt;, &amp;ldquo;Although it includes elements
+from computer science, applied mathematics, engineering and science,
+CSE focuses on the integration of knowledge and methodologies from all
+of these disciplines, and as such is a subject which is distinct from
+any of them.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;By default, I call my own work computational science and engineering.
+While my expertise is in mathematics and computing, I tend to be
+driven by applications.  That is, given that there are too many things
+that I &lt;em&gt;could&lt;/em&gt; learn next, I choose what I &lt;em&gt;will&lt;/em&gt; learn next based on
+how it will help my collaborators and I better understand some
+scientific or engineering application.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
