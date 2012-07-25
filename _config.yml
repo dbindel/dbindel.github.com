@@ -1,6 +1,6 @@
 # standard jekyll configuration
 
-baseurl:   http://dbindel.github.com
+baseurl:   http://www.dbindel.net
 
 permalink: date
 pygments: true
@@ -9,7 +9,7 @@ markdown: kramdown
 
 # configuration required for some pages
 
-domain: dbindel.github.com
+domain: www.dbindel.net
 title: Eigenmumbles
 author: David Bindel
 email: bindel@cs.cornell.edu
