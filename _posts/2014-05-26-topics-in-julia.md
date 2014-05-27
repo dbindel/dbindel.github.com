@@ -27,7 +27,7 @@ simulation methods.  But every time I offer this course, I try to give
 at least one assignment with a less classically numerical feel, and at
 least one assignment with a different style of parallelism.  This
 semester, I satisfied both these desiderata by having the students
-write a [topic mining algorithm in Julia][5220-hw3].  I figured this
+write a [topic mining algorithm in Julia][hw3-assign].  I figured this
 would be a good way to test the claim that it is straightforward to
 write code with good performance in Julia.  In the end, I think I
 figured correctly.
