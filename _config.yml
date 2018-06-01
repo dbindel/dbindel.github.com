@@ -3,7 +3,6 @@
 baseurl:   http://www.dbindel.net
 
 permalink: date
-pygments: true
 exclude: ['Rakefile', 'README.md']
 markdown: kramdown
 
